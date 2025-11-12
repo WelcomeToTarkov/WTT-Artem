@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>WTTArtem</RootNamespace>
+    <AssemblyName>WTT-Artem</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SPTarkov.Server.Core" Version="4.0.4" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TarkovDir Condition=" '$(TarkovDir)' == '' ">$(SolutionDir)..\..\</TarkovDir>
+    <ServerModDir>$(TarkovDir)SPT\user\mods\</ServerModDir>
+  </PropertyGroup>
+
+  <!-- This runs post build to copy the contents of the resource folder to a build directory -->
+  <Target Name="CopyResources" AfterTargets="PostBuildEvent">
+    <ItemGroup>
+      <OutputDLL Include="$(ProjectDir)$(OutDir)$(TargetName).dll" />
+      <Resources Include="$(ProjectDir)Resources\**\*.*" />
+    </ItemGroup>
+
+    <!-- Copy task to copy the dll and resources folder to the mods directory -->
+    <Copy
+            SourceFiles="@(OutputDLL);@(Resources);"
+            DestinationFolder="$(ServerModDir)WTT-Artem\%(RecursiveDir)"
+    />
+  </Target>
+
+</Project>

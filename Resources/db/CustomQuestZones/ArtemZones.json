@@ -1,0 +1,465 @@
+[
+  {
+    "ZoneId": "artem_sanitarlaptopcloset",
+    "ZoneName": "artem_sanitarlaptopcloset",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-132.6677",
+      "Y": "5.020084",
+      "Z": "-335.3648"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1",
+      "Y": "1",
+      "Z": "1"
+    }
+  },
+  {
+    "ZoneId": "artem_tentserver",
+    "ZoneName": "artem_tentserver",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-183.0808",
+      "Y": "0.01159143",
+      "Z": "-328.3812"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6.75",
+      "Y": "3.75",
+      "Z": "5.5"
+    }
+  },
+  {
+    "ZoneId": "ARTT_LIGHTHOUSE_MEDMANSION",
+    "ZoneName": "ARTT_LIGHTHOUSE_MEDMANSION",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-120.6088",
+      "Y": "36.63736",
+      "Z": "92.97433"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "8.75",
+      "Y": "10.25",
+      "Z": "11"
+    }
+  },
+  {
+    "ZoneId": "ARTT_LIGHTHOUSE_MEDBED",
+    "ZoneName": "ARTT_LIGHTHOUSE_MEDBED",
+    "ZoneLocation": "Lighthouse",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-120.9479",
+      "Y": "36.88736",
+      "Z": "79.64074"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1.5",
+      "Y": "1.25",
+      "Z": "1.5"
+    }
+  },
+  {
+    "ZoneId": "ARTT_CUSTOM_DEADCARGO",
+    "ZoneName": "ARTT_CUSTOM_DEADCARGO",
+    "ZoneLocation": "Woods",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-199.3591",
+      "Y": "-1.739617",
+      "Z": "228.1746"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "-0.02399598",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.25",
+      "Y": "1.25",
+      "Z": "1.5"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_TERA_VAN",
+    "ZoneName": "ARTEM_TERA_VAN",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "98.92897",
+      "Y": "-0.6561276",
+      "Z": "46.05323"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5.25",
+      "Y": "2.5",
+      "Z": "6"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_TERA_VAN2",
+    "ZoneName": "ARTEM_TERA_VAN2",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "97.27771",
+      "Y": "-0.3811793",
+      "Z": "45.44617"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.25",
+      "Y": "1",
+      "Z": "2"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_TERA_TENT1",
+    "ZoneName": "ARTEM_TERA_TENT1",
+    "ZoneLocation": "factory4_day",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-17.70827",
+      "Y": "0.2550012",
+      "Z": "-27.92825"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5.5",
+      "Y": "1",
+      "Z": "11.5"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_TERA_TENT2",
+    "ZoneName": "ARTEM_TERA_TENT2",
+    "ZoneLocation": "factory4_day",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-15.20827",
+      "Y": "1.255001",
+      "Z": "-23.92825"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "1",
+      "Y": "2.75",
+      "Z": "1"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_MEDICAL_TENT3",
+    "ZoneName": "ARTEM_MEDICAL_TENT3",
+    "ZoneLocation": "factory4_day",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-15.4365",
+      "Y": "0.5430146",
+      "Z": "-29.60016"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2",
+      "Y": "1.75",
+      "Z": "1.75"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_TERRAGROUP_BARRELS",
+    "ZoneName": "ARTEM_TERRAGROUP_BARRELS",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "346.9177",
+      "Y": "1.22812",
+      "Z": "-73.38669"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "6.25",
+      "Y": "2.5",
+      "Z": "7.75"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_TERRAGROUP_BARRELS2",
+    "ZoneName": "ARTEM_TERRAGROUP_BARRELS2",
+    "ZoneLocation": "bigmap",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "346.7863",
+      "Y": "1.22812",
+      "Z": "-74.04196"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.75",
+      "Y": "1",
+      "Z": "5"
+    }
+  },
+  {
+    "ZoneId": "artem_labspart1",
+    "ZoneName": "artem_labspart1",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-170.8539",
+      "Y": "0.01111764",
+      "Z": "-370.0867"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5",
+      "Y": "3.25",
+      "Z": "6"
+    }
+  },
+  {
+    "ZoneId": "artem_labspart2",
+    "ZoneName": "artem_labspart2",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-171.3539",
+      "Y": "0.01111762",
+      "Z": "-369.5867"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "3",
+      "Y": "1.5",
+      "Z": "3"
+    }
+  },
+  {
+    "ZoneId": "artem_labspart3",
+    "ZoneName": "artem_labspart3",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-163.0493",
+      "Y": "4.87509",
+      "Z": "-344.0215"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "0.75",
+      "Y": "0.25",
+      "Z": "0.75"
+    }
+  },
+  {
+    "ZoneId": "artem_labserverrack",
+    "ZoneName": "artem_labserverrack",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-132.0093",
+      "Y": "2.118483",
+      "Z": "-301.3413"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "5.75",
+      "Y": "3.5",
+      "Z": "3.75"
+    }
+  },
+  {
+    "ZoneId": "artem_labserverrack2",
+    "ZoneName": "artem_labserverrack2",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "-131.9598",
+      "Y": "1.368483",
+      "Z": "-299.92"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "7.25",
+      "Y": "5.5",
+      "Z": "12.25"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_BLUEFLAMESROOM",
+    "ZoneName": "ARTEM_BLUEFLAMESROOM",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "43.52784",
+      "Y": "1.011647",
+      "Z": "-57.12333"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.5",
+      "Y": "3.75",
+      "Z": "6.75"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_BLUEFLAMESTABLE_PART1",
+    "ZoneName": "ARTEM_BLUEFLAMESTABLE_PART1",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "43.85513",
+      "Y": "1.011647",
+      "Z": "-56.45304"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "2.5",
+      "Y": "1.5",
+      "Z": "3"
+    }
+  },
+  {
+    "ZoneId": "ARTEM_BLUEFLAMESSCREEN_PART1",
+    "ZoneName": "ARTEM_BLUEFLAMESSCREEN_PART1",
+    "ZoneLocation": "TarkovStreets",
+    "ZoneType": "visit",
+    "FlareType": "",
+    "Position": {
+      "X": "44.11117",
+      "Y": "2.492749",
+      "Z": "-60.34447"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4",
+      "Y": "2.75",
+      "Z": "0.5"
+    }
+  },
+  {
+    "ZoneId": "artem_labserverrack3",
+    "ZoneName": "artem_labserverrack3",
+    "ZoneLocation": "laboratory",
+    "ZoneType": "placeitem",
+    "FlareType": "",
+    "Position": {
+      "X": "-184.5622",
+      "Y": "0.2699684",
+      "Z": "-330.198"
+    },
+    "Rotation": {
+      "X": "0",
+      "Y": "0",
+      "Z": "0"
+    },
+    "Scale": {
+      "X": "4.75",
+      "Y": "4",
+      "Z": "2.75"
+    }
+  }
+
+]
