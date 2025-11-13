@@ -1928,9 +1928,7 @@
           "counter": {
             "conditions": [
               {
-                "bodyPart": [
-                  ""
-                ],
+                "bodyPart": [],
                 "compareMethod": ">=",
                 "conditionType": "Kills",
                 "daytime": {
@@ -1953,13 +1951,9 @@
                 "target": "Savage",
                 "value": 1,
                 "weapon": [],
-                "weaponCaliber": [
-                  "all"
-                ],
+                "weaponCaliber": [],
                 "weaponModsInclusive": [],
-                "weaponModsExclusive": [],
-                "equipmentInclusive": [],
-                "equipmentExclusive": []
+                "weaponModsExclusive": []
               },
               {
                 "conditionType": "Location",
@@ -1989,9 +1983,7 @@
           "counter": {
             "conditions": [
               {
-                "bodyPart": [
-                  ""
-                ],
+                "bodyPart": [],
                 "compareMethod": ">=",
                 "conditionType": "Kills",
                 "daytime": {
@@ -2014,13 +2006,9 @@
                 "target": "Savage",
                 "value": 1,
                 "weapon": [],
-                "weaponCaliber": [
-                  "all"
-                ],
+                "weaponCaliber": [],
                 "weaponModsInclusive": [],
-                "weaponModsExclusive": [],
-                "equipmentInclusive": [],
-                "equipmentExclusive": []
+                "weaponModsExclusive": []
               },
               {
                 "conditionType": "Location",
@@ -2050,9 +2038,7 @@
           "counter": {
             "conditions": [
               {
-                "bodyPart": [
-                  ""
-                ],
+                "bodyPart": [],
                 "compareMethod": ">=",
                 "conditionType": "Kills",
                 "daytime": {
@@ -2075,13 +2061,9 @@
                 "target": "Savage",
                 "value": 1,
                 "weapon": [],
-                "weaponCaliber": [
-                  "all"
-                ],
+                "weaponCaliber": [],
                 "weaponModsInclusive": [],
-                "weaponModsExclusive": [],
-                "equipmentInclusive": [],
-                "equipmentExclusive": []
+                "weaponModsExclusive": []
               },
               {
                 "conditionType": "Location",
@@ -2431,9 +2413,7 @@
           "counter": {
             "conditions": [
               {
-                "bodyPart": [
-                  ""
-                ],
+                "bodyPart": [],
                 "compareMethod": ">=",
                 "conditionType": "Kills",
                 "daytime": {
@@ -2456,13 +2436,9 @@
                 "target": "Savage",
                 "value": 1,
                 "weapon": [],
-                "weaponCaliber": [
-                  
-                ],
+                "weaponCaliber": [],
                 "weaponModsInclusive": [],
-                "weaponModsExclusive": [],
-                "equipmentInclusive": [],
-                "equipmentExclusive": []
+                "weaponModsExclusive": []
               }
             ],
             "id": "6741d617485da1f1bc00d927"
@@ -3297,9 +3273,7 @@
           "counter": {
             "conditions": [
               {
-                "bodyPart": [
-                  ""
-                ],
+                "bodyPart": [],
                 "compareMethod": ">=",
                 "conditionType": "Kills",
                 "daytime": {
@@ -3320,13 +3294,9 @@
                 "target": "AnyPmc",
                 "value": 1,
                 "weapon": [],
-                "weaponCaliber": [
-                  "all"
-                ],
+                "weaponCaliber": [],
                 "weaponModsInclusive": [],
-                "weaponModsExclusive": [],
-                "equipmentInclusive": [],
-                "equipmentExclusive": []
+                "weaponModsExclusive": []
               }
             ],
             "id": "6741dbba831bdfa9d301c906"
@@ -3930,9 +3900,7 @@
           "counter": {
             "conditions": [
               {
-                "bodyPart": [
-                  ""
-                ],
+                "bodyPart": [],
                 "compareMethod": ">=",
                 "conditionType": "Kills",
                 "daytime": {
@@ -3956,13 +3924,9 @@
                 "target": "Savage",
                 "value": 1,
                 "weapon": [],
-                "weaponCaliber": [
-                  "all"
-                ],
+                "weaponCaliber": [],
                 "weaponModsInclusive": [],
-                "weaponModsExclusive": [],
-                "equipmentInclusive": [],
-                "equipmentExclusive": []
+                "weaponModsExclusive": []
               }
             ],
             "id": "6745faadebc800760cc6e245"
@@ -4479,9 +4443,7 @@
                 "weapon": [],
                 "weaponCaliber": [],
                 "weaponModsInclusive": [],
-                "weaponModsExclusive": [],
-                "equipmentInclusive": [],
-                "equipmentExclusive": []
+                "weaponModsExclusive": []
               },
               {
                 "conditionType": "Location",
@@ -5094,7 +5056,6 @@
     "isKey": false,
     "secretQuest": false,
     "side": "Pmc",
-    "sideExclusive": "Pmc",
     "description": "674652a3507f4bb1aecd1086 description",
     "startedMessageText": "674652a3507f4bb1aecd1086 startedMessageText",
     "successMessageText": "674652a3507f4bb1aecd1086 successMessageText",
@@ -5115,9 +5076,7 @@
           "counter": {
             "conditions": [
               {
-                "bodyPart": [
-                  ""
-                ],
+                "bodyPart": [],
                 "compareMethod": ">=",
                 "conditionType": "Kills",
                 "daytime": {
@@ -5135,19 +5094,15 @@
                 "id": "674652a3e79f0292fa8f6208",
                 "resetOnSessionEnd": false,
                 "savageRole": [
-                  "bossTagilla",
-                  "bossKilla"
+                  "bossTagilla"
+                  
                 ],
                 "target": "Savage",
                 "value": 1,
                 "weapon": [],
-                "weaponCaliber": [
-                  
-                ],
+                "weaponCaliber": [],
                 "weaponModsInclusive": [],
-                "weaponModsExclusive": [],
-                "equipmentInclusive": [],
-                "equipmentExclusive": []
+                "weaponModsExclusive": []
               }
             ],
             "id": "674652a331f553ba59ee7b6a"
@@ -5169,9 +5124,7 @@
           "counter": {
             "conditions": [
               {
-                "bodyPart": [
-                  ""
-                ],
+                "bodyPart": [],
                 "compareMethod": ">=",
                 "conditionType": "Kills",
                 "daytime": {
@@ -5194,13 +5147,9 @@
                 "target": "Savage",
                 "value": 1,
                 "weapon": [],
-                "weaponCaliber": [
-                  "all"
-                ],
+                "weaponCaliber": [],
                 "weaponModsInclusive": [],
-                "weaponModsExclusive": [],
-                "equipmentInclusive": [],
-                "equipmentExclusive": []
+                "weaponModsExclusive": []
               }
             ],
             "id": "674652a344364354b017ac29"
@@ -5210,6 +5159,7 @@
           "globalQuestCounterId": "",
           "id": "674648be9a84445f06fcde32",
           "index": 1,
+          "isNecessary": false,
           "oneSessionOnly": false,
           "parentId": "",
           "type": "Elimination",
