@@ -36,6 +36,7 @@ public class WTTArtem(
         
         await wttCommon.CustomItemServiceExtended.CreateCustomItems(assembly);
         await wttCommon.CustomQuestZoneService.CreateCustomQuestZones(assembly);
+        await wttCommon.CustomLocaleService.CreateCustomLocales(assembly);
         
         var traderImagePath = Path.Combine(pathToMod, "res/66bf757f27d0b097db0acea5.jpg");
         var traderBase = modHelper.GetJsonDataFromFile<TraderBase>(pathToMod, "db/base.json");
