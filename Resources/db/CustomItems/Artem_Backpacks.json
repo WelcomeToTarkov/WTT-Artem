@@ -109,6 +109,11 @@
         "name": "6Sh118 raid backpack (Black)",
         "shortName": "6Sh118 (B)",
         "description": "The 6Sh118 raid backpack is part of the 2nd generation 'Ratnik' gear kit for combat. The 6Sh118 tactical army backpack is a modernization of the 6B38 Permyachka model raid backpack. The raid 6Sh118 backpack is designed to carry fire support equipment, weapons, ammunition, elements of mountain equipment, as well as the personal belongings of individual soldiers. The backpack can be used during combat operations, long hikes, and raid events."
+      },
+      "ru": {
+        "name": "Рейдовый рюкзак 6Ш118 (Чёрный)",
+        "shortName": "6Ш118 (Ч)",
+        "description": "Рейдовый рюкзак 6Ш118 входит в состав экипировки «Ратник» 2-го поколения. Тактический армейский рюкзак 6Ш118 — модернизация рейдового рюкзака модели 6Б38 «Пермячка». Предназначен для переноски средств огневой поддержки, оружия, боеприпасов, элементов горного снаряжения, а также личных вещей военнослужащих."
       }
     },
     "addtoInventorySlots": [],
@@ -244,6 +249,11 @@
         "name": "6Sh118 raid backpack (Alpine)",
         "shortName": "6Sh118 (ALP)",
         "description": "The 6Sh118 raid backpack is part of the 2nd generation 'Ratnik' gear kit for combat. The 6Sh118 tactical army backpack is a modernization of the 6B38 Permyachka model raid backpack. The raid 6Sh118 backpack is designed to carry fire support equipment, weapons, ammunition, elements of mountain equipment, as well as the personal belongings of individual soldiers. The backpack can be used during combat operations, long hikes, and raid events."
+      },
+      "ru": {
+        "name": "Рейдовый рюкзак 6Ш118 (Альпийский)",
+        "shortName": "6Ш118 (АЛП)",
+        "description": "Рейдовый рюкзак 6Ш118 входит в состав экипировки «Ратник» 2-го поколения. Тактический армейский рюкзак 6Ш118 — модернизация рейдового рюкзака модели 6Б38 «Пермячка». Предназначен для переноски средств огневой поддержки, оружия, боеприпасов, элементов горного снаряжения, а также личных вещей военнослужащих."
       }
     },
     "addtoInventorySlots": [],
