@@ -503,9 +503,9 @@
         "description": "The CAGE PLATE CARRIER (CPC) offers unrivaled comfort and load support in a low profile plate carrier configuration. The system supports a range of different pouches. In this case, the configuration is made by the leader of the Goons squad - Knight - for conducting assault operations with increased mobility."
       },
       "ru": {
-        "name": "Плейткарриер Crye Precision CPC (Мультикам)",
-        "shortName": "CPC (МК)",
-        "description": "Высококлассный плейткарриер от Crye Precision в камуфляже Multicam."
+        "name": "Плейткарриер Crye Precision CPC (Multicam)",
+        "shortName": "CPC (MC)",
+        "description": "Плейткарриер CAGE PLATE CARRIER (CPC) обеспечивает непревзойдённый комфорт и поддержку нагрузки в низкопрофильной конфигурации. Система поддерживает различные подсумки. В данном случае конфигурация выполнена лидером отряда Goons — Найтом — для проведения штурмовых операций с повышенной мобильностью."
       }
     },
     "addtoInventorySlots": [],
@@ -1098,9 +1098,9 @@
         "description": "The CAGE PLATE CARRIER (CPC) offers unrivaled comfort and load support in a low profile plate carrier configuration. The system supports a range of different pouches. In this case, the configuration is made by the leader of the Goons squad - Knight - for conducting assault operations with increased mobility."
       },
       "ru": {
-        "name": "Плейткарриер Crye Precision CPC (Альпийский)",
-        "shortName": "CPC (АЛП)",
-        "description": "Высококлассный плейткарриер от Crye Precision в альпийском камуфляже."
+        "name": "Плейткарриер Crye Precision CPC (Alpine)",
+        "shortName": "CPC (ALP)",
+        "description": "Плейткарриер CAGE PLATE CARRIER (CPC) обеспечивает непревзойдённый комфорт и поддержку нагрузки в низкопрофильной конфигурации. Система поддерживает различные подсумки. В данном случае конфигурация выполнена лидером отряда Goons — Найтом — для проведения штурмовых операций с повышенной мобильностью."
       }
     },
     "addtoInventorySlots": [],
@@ -1693,9 +1693,9 @@
         "description": "The CAGE PLATE CARRIER (CPC) offers unrivaled comfort and load support in a low profile plate carrier configuration. The system supports a range of different pouches. In this case, the configuration is made by the leader of the Goons squad - Knight - for conducting assault operations with increased mobility."
       },
       "ru": {
-        "name": "Плейткарриер Crye Precision CPC (Чёрный Мультикам)",
-        "shortName": "CPC (МКЧ)",
-        "description": "Высококлассный плейткарриер от Crye Precision в камуфляже Multicam Black."
+        "name": "Плейткарриер Crye Precision CPC (Multicam-Black)",
+        "shortName": "CPC (MC-B)",
+        "description": "Плейткарриер CAGE PLATE CARRIER (CPC) обеспечивает непревзойдённый комфорт и поддержку нагрузки в низкопрофильной конфигурации. Система поддерживает различные подсумки. В данном случае конфигурация выполнена лидером отряда Goons — Найтом — для проведения штурмовых операций с повышенной мобильностью."
       }
     },
     "addtoInventorySlots": [],
@@ -2292,7 +2292,7 @@
       "ru": {
         "name": "MSV-GEN II",
         "shortName": "MSV-II",
-        "description": "Модульный бронежилет MSV второго поколения."
+        "description": "Армейский бронежилет MSV-GEN II включает полный тактический и скрытного ношения компоненты. Может надеваться поверх формы и состоит из скрытых компонентов, вставленных в тактический носитель. Скрытые компоненты содержат мягкие баллистические панели MSV-GEN II и могут извлекаться из тактического носителя для ношения отдельно как полноценный жилет скрытого ношения. Таким образом, жилет может трансформироваться в тактический или скрытный в зависимости от требований миссии."
       }
     },
     "addtoInventorySlots": [],
@@ -3059,7 +3059,7 @@
       "ru": {
         "name": "Плейткарриер KOMBAT Viking Molle",
         "shortName": "Viking",
-        "description": "Плейткарриер Viking с системой крепления Molle."
+        "description": "Боевая платформа Kombat Viking Molle обеспечивает максимальную грузоподъёмность с большим количеством функций."
       }
     },
     "addtoInventorySlots": [],
@@ -3828,7 +3828,7 @@
       "ru": {
         "name": "Плейткарриер Shellback Tactical Banshee",
         "shortName": "Banshee",
-        "description": "Тактический плейткарриер Banshee от Shellback Tactical."
+        "description": "Плейткарриер Banshee Rifle Plate Carrier® разработан для удовлетворения и превышения потребностей силовых структур, военных и тактических операторов. Этот ультралёгкий, низкопрофильный, высококачественный плейткарриер обладает отличной грузоподъёмностью."
       }
     },
     "addtoInventorySlots": [],
@@ -4523,7 +4523,7 @@
       "ru": {
         "name": "Плейткарриер Sentry",
         "shortName": "Sentry",
-        "description": "Плейткарриер Sentry."
+        "description": "Оставайтесь в безопасности и комфорте при исполнении служебных обязанностей с плейткарриером Condor Sentry. Разработанный для обеспечения поддерживающей посадки, этот жилет включает регулируемые плечевые ремни со съёмными наплечниками и дышащую 3D-сетчатую подкладку. Также оснащён быстрыми регулировками спереди и на плечах для удобного длительного ношения. Плейткарриер вмещает стандартные бронепластины и оснащён аварийной ручкой для эвакуации и удобными быстросъёмными застёжками."
       }
     },
     "addtoInventorySlots": [],
@@ -5067,8 +5067,8 @@
       },
       "ru": {
         "name": "Плейткарриер CONDOR MOPC",
-        "shortName": "CONDOR",
-        "description": "Модульный оперативный плейткарриер CONDOR."
+        "shortName": "MOPC",
+        "description": "Condor MOPC подходит для бронепластин Spartan Armor Systems™ 10×12″ AR500 / AR550 / Armaply AR650 Shooter's Cut, мягкой брони SAS IIIA и наших композитных пластин Level IV."
       }
     },
     "addtoInventorySlots": [],
@@ -5541,7 +5541,7 @@
       "ru": {
         "name": "Плейткарриер OPENLAND HEXAGON",
         "shortName": "HEXAGON",
-        "description": "Плейткарриер HEXAGON от OPENLAND."
+        "description": "Не каждый день появляется новая система крепления снаряжения, способная заменить ALICE и PALS/MOLLE, особенно такая, которая имеет реальный шанс на это. Именно поэтому DefenseReview нашёл новый плейткарриер 5.11 Tactical OPENLAND и систему HEXGRID столь интригующими, когда увидел их на NDIA SOFIC 2017."
       }
     },
     "addtoInventorySlots": [],
@@ -6298,7 +6298,7 @@
       "ru": {
         "name": "JPC 2.0 MARITIME",
         "shortName": "JPC 2.0",
-        "description": "Облегчённый плейткарриер JPC 2.0 в морском исполнении."
+        "description": "JPC (JUMPABLE PLATE CARRIER) 2.0™ MARITIME — лёгкий и минималистичный бронежилет, разработанный для максимальной мобильности, экономии веса и компактности. При весе чуть более фунта за весь носитель, JPC 2.0™ MARITIME предлагает разнообразные варианты конфигурации для удовлетворения потребностей оператора в защите, модульности и комфорте."
       }
     },
     "addtoInventorySlots": [],
@@ -7067,7 +7067,7 @@
       "ru": {
         "name": "JPC 2.0 MARITIME",
         "shortName": "JPC 2.0",
-        "description": "Облегчённый плейткарриер JPC 2.0 в морском исполнении."
+        "description": "JPC (JUMPABLE PLATE CARRIER) 2.0™ MARITIME — лёгкий и минималистичный бронежилет, разработанный для максимальной мобильности, экономии веса и компактности. При весе чуть более фунта за весь носитель, JPC 2.0™ MARITIME предлагает разнообразные варианты конфигурации для удовлетворения потребностей оператора в защите, модульности и комфорте."
       }
     },
     "addtoInventorySlots": [],
@@ -7734,7 +7734,7 @@
       "ru": {
         "name": "Плейткарриер 5.11 TACTEC",
         "shortName": "TACTEC",
-        "description": "Плейткарриер TACTEC от 5.11 Tactical."
+        "description": "Изготовленный из сверхпрочного, водостойкого нейлона 500D, плейткарриер 5.11 TacTec™ специально разработан для обеспечения увеличенного диапазона движений с лёгким ощущением и оптимальной вентиляцией. В отличие от некоторых аналогов в индустрии, этот жилет может вмещать средние и большие баллистические пластины спереди и сзади без ограничивающей громоздкости."
       }
     },
     "addtoInventorySlots": [],
@@ -8207,7 +8207,7 @@
       "ru": {
         "name": "Плейткарриер TACTEC",
         "shortName": "TACTEC",
-        "description": "Плейткарриер TACTEC."
+        "description": "Представляем TacTec Plate Carrier от 5.11 Tactical® — высокопроизводительный, лёгкий и мобильный плейткарриер, разработанный для обеспечения исключительного комфорта и максимального диапазона движений."
       }
     },
     "addtoInventorySlots": [],
@@ -8780,7 +8780,7 @@
       "ru": {
         "name": "Бронежилет ФОРТ Defender-2 (OD)",
         "shortName": "ФОРТ D-2",
-        "description": "Бронежилет ФОРТ Defender-2 оливкового цвета."
+        "description": "Оперативный комплект ФОРТ ОК \\\"Defender-2\\\" является модификацией популярного бронежилета ФОРТ \\\"Defender\\\", предназначенного как для VIP-охраны, так и для сотрудников оперативных боевых подразделений. Комплект использует максимальные возможности модульного принципа построения брони на базе стальных пластин."
       }
     },
     "addtoInventorySlots": [],
@@ -9375,9 +9375,9 @@
         "description": "The AIRLITE SPC (STRUCTURAL PLATE CARRIER) offers all the lightweight mobility of our JPC™ while providing the structural load support of our AVS™ & CPC™. At just over one pound for the entire system (including front flap and cummerbund- each sold separetely), the AIRLITE SPC is an ideal choice for all environments including maritime. It pairs with our patented AIRLITE STRUCTURAL CUMMERBUND that allows pouches to be mounted on both the inside and outside of the cummerbund and is compatible with our EXTENDABLE StKSS™ to reduce the load on the shoulders and back.  The AIRLITE SPC sheds unnecessary weight and bulk while improving overall ventilation."
       },
       "ru": {
-        "name": "AirLite SPC (Мультикам)",
-        "shortName": "AirLite",
-        "description": "Ультралёгкий плейткарриер AirLite в камуфляже Multicam."
+        "name": "AirLite SPC (Multicam)",
+        "shortName": "SPC",
+        "description": "AIRLITE SPC (STRUCTURAL PLATE CARRIER) сочетает лёгкость и мобильность нашего JPC™ со структурной поддержкой нагрузки AVS™ и CPC™. При весе чуть более фунта за всю систему (включая переднюю панель и камербанд — продаются отдельно), AIRLITE SPC является идеальным выбором для любых условий, включая морские операции. Совместим с нашим запатентованным AIRLITE STRUCTURAL CUMMERBUND, позволяющим крепить подсумки как изнутри, так и снаружи камербанда, а также с нашим расширяемым StKSS™ для снижения нагрузки на плечи и спину. AIRLITE SPC избавлен от лишнего веса и объёма при улучшенной вентиляции."
       }
     },
     "addtoInventorySlots": [],
@@ -9872,9 +9872,9 @@
         "description": "The LV/119 SYSTEM is a group of products that work together to give end-users the ability to scale their equipment to their current needs. The fact that this is a cohesive system means that users can mix and match accessories in most cases. For example: One could take a C O V E R T Front or Rear Plate bag and use it with an O V E R T Front and Rear Plate Bag. Users may also also cross pollinate cummerbunds, shoulder covers, and other parts that will be available. The SYSTEM encompasses many parts, some of which are currently available and some that are in development, such as Back Panels of various types, MOLLE cummerbunds, First Spear TUBES™ integrations, and different placards."
       },
       "ru": {
-        "name": "LV-119 (Мультикам)",
+        "name": "LV-119 (Multicam)",
         "shortName": "LV-119",
-        "description": "Низкопрофильный плейткарриер LV-119 в камуфляже Multicam."
+        "description": "Система LV/119 — это группа продуктов, работающих вместе, чтобы дать пользователям возможность масштабировать своё снаряжение под текущие нужды. Слаженность системы означает, что пользователи могут смешивать аксессуары. Например: можно взять COVERT переднюю или заднюю сумку для пластин и использовать с OVERT передней и задней. Пользователи также могут комбинировать камербанды, наплечники и другие части."
       }
     },
     "addtoInventorySlots": [],
