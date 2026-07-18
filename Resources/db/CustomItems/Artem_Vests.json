@@ -521,7 +521,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -1111,7 +1111,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -1701,7 +1701,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -2293,7 +2293,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -3055,7 +3055,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -3819,7 +3819,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -4509,7 +4509,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -5049,7 +5049,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -5517,7 +5517,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -6269,7 +6269,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -7033,7 +7033,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -7695,7 +7695,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -8163,7 +8163,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -8731,7 +8731,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": false,
     "weaponPresets": [
       {
@@ -9323,7 +9323,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
@@ -9815,7 +9815,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
