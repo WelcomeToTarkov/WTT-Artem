@@ -207,7 +207,7 @@
         "probability": 150
       }
     ],
-    "masteries": true,
+    "masteries": false,
     "addWeaponPreset": true,
     "weaponPresets": [
       {
