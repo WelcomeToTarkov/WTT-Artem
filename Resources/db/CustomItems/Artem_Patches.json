@@ -15,6 +15,11 @@
         "name": "Tron Patch",
         "shortName": "Tron Patch",
         "description": "WTT"
+      },
+      "ru": {
+        "name": "Нашивка Tron",
+        "shortName": "Tron",
+        "description": "Нашивка в стиле Tron."
       }
     },
     "addtoInventorySlots": [],
@@ -56,6 +61,11 @@
         "name": "Warrior of Sunlight Patch",
         "shortName": "Warrior of Sunlight Patch",
         "description": "Long Live Solaire"
+      },
+      "ru": {
+        "name": "Нашивка Воина Солнечного Света",
+        "shortName": "Солер",
+        "description": "Praise the Sun!"
       }
     },
     "addtoInventorySlots": [],
@@ -97,6 +107,11 @@
         "name": "'Oi Matey' Patch",
         "shortName": "'Oi Matey'",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка 'Oi Matey'",
+        "shortName": "Matey",
+        "description": "Нашивка с пиратской тематикой."
       }
     },
     "addtoInventorySlots": [],
@@ -138,6 +153,11 @@
         "name": "Bluey Portrait Patch",
         "shortName": "Bluey",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка с портретом Bluey",
+        "shortName": "Bluey",
+        "description": "Нашивка с Bluey."
       }
     },
     "addtoInventorySlots": [],
@@ -179,6 +199,11 @@
         "name": "USEC Patch",
         "shortName": "USEC",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка USEC",
+        "shortName": "USEC",
+        "description": "Нашивка частной военной компании USEC."
       }
     },
     "addtoInventorySlots": [],
@@ -220,6 +245,11 @@
         "name": "BEAR Patch",
         "shortName": "BEAR",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка BEAR",
+        "shortName": "BEAR",
+        "description": "Нашивка частной военной компании BEAR."
       }
     },
     "addtoInventorySlots": [],
@@ -261,6 +291,11 @@
         "name": "Alabama Patch",
         "shortName": "Alabama",
         "description": "Rocka went to a trip far away."
+      },
+      "ru": {
+        "name": "Нашивка Алабама",
+        "shortName": "Алабама",
+        "description": "Нашивка штата Алабама."
       }
     },
     "addtoInventorySlots": [],
@@ -302,6 +337,11 @@
         "name": "USA Patch",
         "shortName": "USA",
         "description": "USA."
+      },
+      "ru": {
+        "name": "Нашивка США",
+        "shortName": "США",
+        "description": "Нашивка флага США."
       }
     },
     "addtoInventorySlots": [],
@@ -343,6 +383,11 @@
         "name": "Sweden Patch",
         "shortName": "Sweden",
         "description": "Sweden."
+      },
+      "ru": {
+        "name": "Нашивка Швеция",
+        "shortName": "Швеция",
+        "description": "Нашивка флага Швеции."
       }
     },
     "addtoInventorySlots": [],
@@ -384,6 +429,11 @@
         "name": "'Fren' Patch",
         "shortName": "Fren",
         "description": "Fren."
+      },
+      "ru": {
+        "name": "Нашивка 'Fren'",
+        "shortName": "Fren",
+        "description": "Нашивка с мемом."
       }
     },
     "addtoInventorySlots": [],
@@ -425,6 +475,11 @@
         "name": "UK Patch",
         "shortName": "UK",
         "description": "UK"
+      },
+      "ru": {
+        "name": "Нашивка Великобритания",
+        "shortName": "UK",
+        "description": "Нашивка флага Великобритании."
       }
     },
     "addtoInventorySlots": [],
@@ -466,6 +521,11 @@
         "name": "Patch",
         "shortName": "",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка",
+        "shortName": "Нашивка",
+        "description": "Декоративная нашивка."
       }
     },
     "addtoInventorySlots": [],
@@ -507,6 +567,11 @@
         "name": "Notepad++ Patch",
         "shortName": "",
         "description": "To our beloved, and most insane WTT member; Qwertyalex"
+      },
+      "ru": {
+        "name": "Нашивка Notepad++",
+        "shortName": "Notepad++",
+        "description": "Нашивка для фанатов лучшего текстового редактора."
       }
     },
     "addtoInventorySlots": [],
@@ -548,6 +613,11 @@
         "name": "Scotland Patch",
         "shortName": "",
         "description": "Scotland"
+      },
+      "ru": {
+        "name": "Нашивка Шотландия",
+        "shortName": "Шотландия",
+        "description": "Нашивка флага Шотландии."
       }
     },
     "addtoInventorySlots": [],
@@ -589,6 +659,11 @@
         "name": "Germany Patch",
         "shortName": "",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка Германия",
+        "shortName": "Германия",
+        "description": "Нашивка флага Германии."
       }
     },
     "addtoInventorySlots": [],
@@ -630,6 +705,11 @@
         "name": "Rangers Patch",
         "shortName": "Rangers",
         "description": "Rangers"
+      },
+      "ru": {
+        "name": "Нашивка Рейнджеры",
+        "shortName": "Рейнджеры",
+        "description": "Нашивка армейских рейнджеров."
       }
     },
     "addtoInventorySlots": [],
@@ -671,6 +751,11 @@
         "name": "'no step on snek'Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка 'no step on snek'",
+        "shortName": "Snek",
+        "description": "Нашивка с мемом про змею."
       }
     },
     "addtoInventorySlots": [],
@@ -712,6 +797,11 @@
         "name": "Meowdy Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка Meowdy",
+        "shortName": "Meowdy",
+        "description": "Нашивка с котом-ковбоем."
       }
     },
     "addtoInventorySlots": [],
@@ -753,6 +843,11 @@
         "name": "Australia Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка Австралия",
+        "shortName": "Австралия",
+        "description": "Нашивка флага Австралии."
       }
     },
     "addtoInventorySlots": [],
@@ -794,6 +889,11 @@
         "name": "Canada Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка Канада",
+        "shortName": "Канада",
+        "description": "Нашивка флага Канады."
       }
     },
     "addtoInventorySlots": [],
@@ -835,6 +935,11 @@
         "name": "Poland Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка Польша",
+        "shortName": "Польша",
+        "description": "Нашивка флага Польши."
       }
     },
     "addtoInventorySlots": [],
@@ -876,6 +981,11 @@
         "name": "Solaire Circular Patch",
         "shortName": "Solaire",
         "description": ""
+      },
+      "ru": {
+        "name": "Круглая нашивка Солера",
+        "shortName": "Солер",
+        "description": "Praise the Sun!"
       }
     },
     "addtoInventorySlots": [],
@@ -917,6 +1027,11 @@
         "name": "Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка",
+        "shortName": "Нашивка",
+        "description": "Декоративная нашивка."
       }
     },
     "addtoInventorySlots": [],
@@ -958,6 +1073,11 @@
         "name": "Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка",
+        "shortName": "Нашивка",
+        "description": "Декоративная нашивка."
       }
     },
     "addtoInventorySlots": [],
@@ -999,6 +1119,11 @@
         "name": "Brotherhood Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка Братство",
+        "shortName": "Братство",
+        "description": "Нашивка Братства Стали."
       }
     },
     "addtoInventorySlots": [],
@@ -1040,6 +1165,11 @@
         "name": "Hidden Leaf Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка Скрытый Лист",
+        "shortName": "Коноха",
+        "description": "Нашивка деревни Скрытого Листа из Наруто."
       }
     },
     "addtoInventorySlots": [],
@@ -1081,6 +1211,11 @@
         "name": "Berserk Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка Berserk",
+        "shortName": "Berserk",
+        "description": "Нашивка по мотивам манги Berserk."
       }
     },
     "addtoInventorySlots": [],
@@ -1122,6 +1257,11 @@
         "name": "Patch",
         "shortName": "Patch",
         "description": ""
+      },
+      "ru": {
+        "name": "Нашивка",
+        "shortName": "Нашивка",
+        "description": "Декоративная нашивка."
       }
     },
     "addtoInventorySlots": [],
@@ -1212,6 +1352,11 @@
         "name": "NVG Battery Pack",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ru": {
+        "name": "Батарейный блок ПНВ",
+        "shortName": "Батарея ПНВ",
+        "description": "Батарейный блок для приборов ночного видения."
       }
     },
     "addtoInventorySlots": [],
@@ -1302,6 +1447,11 @@
         "name": "NVG Battery Pack (Alpine)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ru": {
+        "name": "Батарейный блок ПНВ (Альпийский)",
+        "shortName": "Батарея (АЛП)",
+        "description": "Батарейный блок для приборов ночного видения в альпийском камуфляже."
       }
     },
     "addtoInventorySlots": [],
@@ -1392,6 +1542,11 @@
         "name": "NVG Battery Pack (Multicam)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ru": {
+        "name": "Батарейный блок ПНВ (Мультикам)",
+        "shortName": "Батарея (МК)",
+        "description": "Батарейный блок для приборов ночного видения в камуфляже Multicam."
       }
     },
     "addtoInventorySlots": [],
@@ -1482,6 +1637,11 @@
         "name": "NVG Battery Pack (Multicam Black)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ru": {
+        "name": "Батарейный блок ПНВ (Чёрный Мультикам)",
+        "shortName": "Батарея (МКЧ)",
+        "description": "Батарейный блок для приборов ночного видения в камуфляже Multicam Black."
       }
     },
     "addtoInventorySlots": [],
@@ -1572,6 +1732,11 @@
         "name": "Ferro Concepts Battery Pack (Coyote)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ru": {
+        "name": "Батарейный блок Ferro Concepts (Койот)",
+        "shortName": "Ferro (К)",
+        "description": "Батарейный блок Ferro Concepts цвета койот."
       }
     },
     "addtoInventorySlots": [],
@@ -1662,6 +1827,11 @@
         "name": "Ferro Concepts Battery Pack (Ranger Green)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ru": {
+        "name": "Батарейный блок Ferro Concepts (Рейнджер зелёный)",
+        "shortName": "Ferro (РЗ)",
+        "description": "Батарейный блок Ferro Concepts цвета Ranger Green."
       }
     },
     "addtoInventorySlots": [],
@@ -1752,6 +1922,11 @@
         "name": "Ferro Concepts Battery Pack (Black)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ru": {
+        "name": "Батарейный блок Ferro Concepts (Чёрный)",
+        "shortName": "Ferro (Ч)",
+        "description": "Чёрный батарейный блок Ferro Concepts."
       }
     },
     "addtoInventorySlots": [],
@@ -1842,6 +2017,11 @@
         "name": "Ferro Concepts Battery Pack (Alpine)",
         "shortName": "NVG Battery Pack",
         "description": ""
+      },
+      "ru": {
+        "name": "Батарейный блок Ferro Concepts (Альпийский)",
+        "shortName": "Ferro (АЛП)",
+        "description": "Батарейный блок Ferro Concepts в альпийском камуфляже."
       }
     },
     "addtoInventorySlots": [],
@@ -2205,6 +2385,11 @@
         "name": "Helmet Cover Black",
         "shortName": "Helmet Cover",
         "description": ""
+      },
+      "ru": {
+        "name": "Чехол на шлем (Чёрный)",
+        "shortName": "Чехол (Ч)",
+        "description": "Чёрный чехол на шлем."
       }
     },
     "addtoInventorySlots": [],
@@ -2570,6 +2755,11 @@
         "name": "Helmet Cover Alpine",
         "shortName": "Helmet Cover",
         "description": ""
+      },
+      "ru": {
+        "name": "Чехол на шлем (Альпийский)",
+        "shortName": "Чехол (АЛП)",
+        "description": "Чехол на шлем в альпийском камуфляже."
       }
     },
     "addtoInventorySlots": [],
@@ -2941,6 +3131,11 @@
         "name": "Helmet Cover Ranger Green",
         "shortName": "Helmet Cover",
         "description": ""
+      },
+      "ru": {
+        "name": "Чехол на шлем (Рейнджер зелёный)",
+        "shortName": "Чехол (РЗ)",
+        "description": "Чехол на шлем цвета Ranger Green."
       }
     },
     "addtoInventorySlots": [],
@@ -3312,6 +3507,11 @@
         "name": "Helmet Cover Multicam",
         "shortName": "Helmet Cover",
         "description": ""
+      },
+      "ru": {
+        "name": "Чехол на шлем (Мультикам)",
+        "shortName": "Чехол (МК)",
+        "description": "Чехол на шлем в камуфляже Multicam."
       }
     },
     "addtoInventorySlots": [],
@@ -3683,6 +3883,11 @@
         "name": "Helmet Cover Multicam Black",
         "shortName": "Helmet Cover",
         "description": ""
+      },
+      "ru": {
+        "name": "Чехол на шлем (Чёрный Мультикам)",
+        "shortName": "Чехол (МКЧ)",
+        "description": "Чехол на шлем в камуфляже Multicam Black."
       }
     },
     "addtoInventorySlots": [],

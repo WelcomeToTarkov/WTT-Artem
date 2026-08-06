@@ -7,8 +7,12 @@
     "handsId": "674db0dedec76099868afcd0",
     "locales": {
       "en": {
-          "name": "Urban Shirt (Black)",
-          "description":"A black Urban Shirt"
+        "name": "Urban Shirt (Black)",
+        "description": "A black Urban Shirt"
+      },
+      "ru": {
+        "name": "Городская рубашка (Чёрная)",
+        "description": "Чёрная городская рубашка"
       }
     },
     "topBundlePath": "Tops/testshirt.bundle",
@@ -28,8 +32,12 @@
     "handsId": "674db07960299e814849478d",
     "locales": {
       "en": {
-          "name": "ACE GEN.2 WINTER COMBAT SHIRT (Dark)",
-          "description":"ACE GEN.2 WINTER COMBAT SHIRT"
+        "name": "ACE GEN.2 WINTER COMBAT SHIRT (Dark)",
+        "description": "ACE GEN.2 WINTER COMBAT SHIRT"
+      },
+      "ru": {
+        "name": "Зимняя боевая рубашка ACE GEN.2 (Тёмная)",
+        "description": "Зимняя боевая рубашка ACE второго поколения"
       }
     },
     "topBundlePath": "Tops/artem_top_2.bundle",
@@ -49,8 +57,12 @@
     "handsId": "674db0a9fea093e2b658ef60",
     "locales": {
       "en": {
-          "name": "G4 COMBAT SHIRT (Olive)",
-          "description":"G4 COMBAT SHIRT"
+        "name": "G4 COMBAT SHIRT (Olive)",
+        "description": "G4 COMBAT SHIRT"
+      },
+      "ru": {
+        "name": "Боевая рубашка G4 (Оливковая)",
+        "description": "Боевая рубашка G4"
       }
     },
     "topBundlePath": "Tops/artem_top_3.bundle",
@@ -70,8 +82,12 @@
     "handsId": "674db148569046b4e8a3171b",
     "locales": {
       "en": {
-          "name": "G4 COMBAT SHIRT (Cyan)",
-          "description":"G4 COMBAT SHIRT"
+        "name": "G4 COMBAT SHIRT (Cyan)",
+        "description": "G4 COMBAT SHIRT"
+      },
+      "ru": {
+        "name": "Боевая рубашка G4 (Голубая)",
+        "description": "Боевая рубашка G4"
       }
     },
     "topBundlePath": "Tops/artem_top_4.bundle",
@@ -91,8 +107,12 @@
     "handsId": "6753b4dbf9795da5c360fafc",
     "locales": {
       "en": {
-          "name": "COMBAT SHIRT (Black)",
-          "description":"COMBAT SHIRT"
+        "name": "COMBAT SHIRT (Black)",
+        "description": "COMBAT SHIRT"
+      },
+      "ru": {
+        "name": "Боевая рубашка (Чёрная)",
+        "description": "Боевая рубашка"
       }
     },
     "topBundlePath": "Tops/artem_top_5.bundle",
@@ -112,8 +132,12 @@
     "handsId": "674db176e48b460d824b1e53",
     "locales": {
       "en": {
-          "name": "G3 Combat Shirt (Ranger Green)",
-          "description":"G3 Combat Shirt"
+        "name": "G3 Combat Shirt (Ranger Green)",
+        "description": "G3 Combat Shirt"
+      },
+      "ru": {
+        "name": "Боевая рубашка G3 (Рейнджер зелёный)",
+        "description": "Боевая рубашка G3"
       }
     },
     "topBundlePath": "Tops/artem_top_8.bundle",
@@ -133,8 +157,12 @@
     "handsId": "674db1b1406a079d4610cbee",
     "locales": {
       "en": {
-          "name": "G3 Combat Shirt (Multicam)",
-          "description":"G3 Combat Shirt"
+        "name": "G3 Combat Shirt (Multicam)",
+        "description": "G3 Combat Shirt"
+      },
+      "ru": {
+        "name": "Боевая рубашка G3 (Мультикам)",
+        "description": "Боевая рубашка G3"
       }
     },
     "topBundlePath": "Tops/artem_top_9.bundle",
@@ -154,8 +182,12 @@
     "handsId": "674db1c1f9cec1d48e897ee1",
     "locales": {
       "en": {
-          "name": "Welcome to Tarkov T-shirt",
-          "description":"Welcome to Tarkov T-shirt"
+        "name": "Welcome to Tarkov T-shirt",
+        "description": "Welcome to Tarkov T-shirt"
+      },
+      "ru": {
+        "name": "Футболка Welcome to Tarkov",
+        "description": "Футболка Welcome to Tarkov"
       }
     },
     "topBundlePath": "Tops/artem_wttshirt.bundle",
@@ -175,8 +207,12 @@
     "handsId": "6753b53239d8af90f97f62e9",
     "locales": {
       "en": {
-          "name": "Notch Lapel Suit (Black)",
-          "description":"Notch Lapel Suit"
+        "name": "Notch Lapel Suit (Black)",
+        "description": "Notch Lapel Suit"
+      },
+      "ru": {
+        "name": "Костюм с вырезом-насечкой (Чёрный)",
+        "description": "Классический костюм"
       }
     },
     "topBundlePath": "Tops/artem_top_10.bundle",
@@ -196,8 +232,12 @@
     "handsId": "674db1f40051dd0ac8c6b406",
     "locales": {
       "en": {
-          "name": "Black Hoodie - Cultists",
-          "description":"Black Hoodie" 
+        "name": "Black Hoodie - Cultists",
+        "description": "Black Hoodie"
+      },
+      "ru": {
+        "name": "Чёрная толстовка - Культисты",
+        "description": "Чёрная толстовка"
       }
     },
     "topBundlePath": "Tops/artem_top_12.bundle",
@@ -217,8 +257,12 @@
     "handsId": "674db21609ef032b1b6df2c8",
     "locales": {
       "en": {
-          "name": "Black Hoodie - O7S",
-          "description":"Black Hoodie"
+        "name": "Black Hoodie - O7S",
+        "description": "Black Hoodie"
+      },
+      "ru": {
+        "name": "Чёрная толстовка - O7S",
+        "description": "Чёрная толстовка"
       }
     },
     "topBundlePath": "Tops/artem_top_13.bundle",
@@ -238,8 +282,12 @@
     "handsId": "674db21ec9de3896e139c724",
     "locales": {
       "en": {
-          "name": "Flannel Shirt (Gray)",
-          "description":"Flannel Shirt"
+        "name": "Flannel Shirt (Gray)",
+        "description": "Flannel Shirt"
+      },
+      "ru": {
+        "name": "Фланелевая рубашка (Серая)",
+        "description": "Фланелевая рубашка"
       }
     },
     "topBundlePath": "Tops/artem_top_14.bundle",
@@ -259,8 +307,12 @@
     "handsId": "674db2359a5187f3561b7230",
     "locales": {
       "en": {
-          "name": "Flannel Shirt (Green)",
-          "description":"Flannel Shirt"
+        "name": "Flannel Shirt (Green)",
+        "description": "Flannel Shirt"
+      },
+      "ru": {
+        "name": "Фланелевая рубашка (Зелёная)",
+        "description": "Фланелевая рубашка"
       }
     },
     "topBundlePath": "Tops/artem_top_15.bundle",
@@ -280,8 +332,12 @@
     "handsId": "674db255ff828e9012332ec1",
     "locales": {
       "en": {
-          "name": "Flannel Shirt (Red)",
-          "description":"Flannel Shirt"
+        "name": "Flannel Shirt (Red)",
+        "description": "Flannel Shirt"
+      },
+      "ru": {
+        "name": "Фланелевая рубашка (Красная)",
+        "description": "Фланелевая рубашка"
       }
     },
     "topBundlePath": "Tops/artem_top_16.bundle",
@@ -301,8 +357,12 @@
     "handsId": "674db26e149bc6f31dc7e219",
     "locales": {
       "en": {
-          "name": "Black Urban Shirt (Starvox)",
-          "description":"Black Urban Shirt"
+        "name": "Black Urban Shirt (Starvox)",
+        "description": "Black Urban Shirt"
+      },
+      "ru": {
+        "name": "Чёрная городская рубашка (Starvox)",
+        "description": "Чёрная городская рубашка"
       }
     },
     "topBundlePath": "Tops/artem_voxshirt.bundle",
@@ -322,8 +382,12 @@
     "handsId": "674db287ac336f7e3d87985f",
     "locales": {
       "en": {
-          "name": "Softshell (Alpine MC)", 
-          "description":"Softshell (Alpine MC)"
+        "name": "Softshell (Alpine MC)",
+        "description": "Softshell (Alpine MC)"
+      },
+      "ru": {
+        "name": "Софтшелл (Альпийский МК)",
+        "description": "Софтшелл в альпийском камуфляже"
       }
     },
     "topBundlePath": "Tops/artem_top_18.bundle",
@@ -343,8 +407,12 @@
     "handsId": "674db29ab84dc312fa7e54eb",
     "locales": {
       "en": {
-          "name": "Troubleshooter", 
-          "description":"Troubleshooter"
+        "name": "Troubleshooter",
+        "description": "Troubleshooter"
+      },
+      "ru": {
+        "name": "Специалист по устранению неполадок",
+        "description": "Troubleshooter"
       }
     },
     "topBundlePath": "Tops/artem_top_19.bundle",
@@ -364,8 +432,12 @@
     "handsId": "674db2bcb225f034165b7148",
     "locales": {
       "en": {
-          "name": "Berserk T-Shirt", 
-          "description":"Berserk T-Shirt"
+        "name": "Berserk T-Shirt",
+        "description": "Berserk T-Shirt"
+      },
+      "ru": {
+        "name": "Футболка Berserk",
+        "description": "Футболка Berserk"
       }
     },
     "topBundlePath": "Tops/artem_top_20.bundle",
@@ -385,8 +457,12 @@
     "handsId": "674db2d05362d4e1845bb354",
     "locales": {
       "en": {
-          "name": "Ghillie Jacket (Brown)", 
-          "description":"Ghillie Jacket (Brown)"
+        "name": "Ghillie Jacket (Brown)",
+        "description": "Ghillie Jacket (Brown)"
+      },
+      "ru": {
+        "name": "Маскировочная куртка (Коричневая)",
+        "description": "Маскировочная куртка"
       }
     },
     "topBundlePath": "Tops/artem_top_21.bundle",
@@ -406,8 +482,12 @@
     "handsId": "674db2fc68671e394b79b762",
     "locales": {
       "en": {
-          "name": "Ghillie Jacket (Alpine)", 
-          "description":"Ghillie Jacket (Alpine)"
+        "name": "Ghillie Jacket (Alpine)",
+        "description": "Ghillie Jacket (Alpine)"
+      },
+      "ru": {
+        "name": "Маскировочная куртка (Альпийская)",
+        "description": "Маскировочная куртка"
       }
     },
     "topBundlePath": "Tops/artem_top_22_alpineghillie.bundle",
@@ -427,8 +507,12 @@
     "handsId": "674db360a5cffdff92017a2e",
     "locales": {
       "en": {
-          "name": "Navy Blue T-Shirt",
-          "description":"Navy Blue T-Shirt"
+        "name": "Navy Blue T-Shirt",
+        "description": "Navy Blue T-Shirt"
+      },
+      "ru": {
+        "name": "Тёмно-синяя футболка",
+        "description": "Тёмно-синяя футболка"
       }
     },
     "topBundlePath": "Tops/artem_top_26.bundle",
@@ -448,8 +532,12 @@
     "handsId": "674db36be409f952a16676ae",
     "locales": {
       "en": {
-          "name": "Ranger Green T-Shirt", 
-          "description":"Ranger Green T-Shirt"
+        "name": "Ranger Green T-Shirt",
+        "description": "Ranger Green T-Shirt"
+      },
+      "ru": {
+        "name": "Футболка Ranger Green",
+        "description": "Футболка цвета Ranger Green"
       }
     },
     "topBundlePath": "Tops/artem_top_27.bundle",
@@ -469,8 +557,12 @@
     "handsId": "674db37ac57c0889905d4dd1",
     "locales": {
       "en": {
-          "name": "Tanned T-Shirt", 
-          "description":"Tanned T-Shirt"
+        "name": "Tanned T-Shirt",
+        "description": "Tanned T-Shirt"
+      },
+      "ru": {
+        "name": "Загорелая футболка",
+        "description": "Футболка песочного цвета"
       }
     },
     "topBundlePath": "Tops/artem_top_28.bundle",
@@ -490,8 +582,12 @@
     "handsId": "674db3a856db79a7c4fce1bd",
     "locales": {
       "en": {
-          "name": "Business Casual (Black)", 
-          "description":"Business Casual (Black)"
+        "name": "Business Casual (Black)",
+        "description": "Business Casual (Black)"
+      },
+      "ru": {
+        "name": "Деловой кэжуал (Чёрный)",
+        "description": "Деловой кэжуал"
       }
     },
     "topBundlePath": "Tops/artem_top_29.bundle",
@@ -511,8 +607,12 @@
     "handsId": "674db3be4c70b09e5bbb23c9",
     "locales": {
       "en": {
-          "name": "Business Casual (Green)", 
-          "description":"Business Casual (Green)"
+        "name": "Business Casual (Green)",
+        "description": "Business Casual (Green)"
+      },
+      "ru": {
+        "name": "Деловой кэжуал (Зелёный)",
+        "description": "Деловой кэжуал"
       }
     },
     "topBundlePath": "Tops/artem_top_30.bundle",
@@ -532,8 +632,12 @@
     "handsId": "674db3d1305571a17d10713b",
     "locales": {
       "en": {
-          "name": "Business Casual (White)", 
-          "description":"Business Casual (White)"
+        "name": "Business Casual (White)",
+        "description": "Business Casual (White)"
+      },
+      "ru": {
+        "name": "Деловой кэжуал (Белый)",
+        "description": "Деловой кэжуал"
       }
     },
     "topBundlePath": "Tops/artem_top_31.bundle",
@@ -553,8 +657,12 @@
     "handsId": "674db3e6d776d83c358c0cf4",
     "locales": {
       "en": {
-          "name": "Black Infiltrator", 
-          "description":"Black Infiltrator"
+        "name": "Black Infiltrator",
+        "description": "Black Infiltrator"
+      },
+      "ru": {
+        "name": "Чёрный инфильтратор",
+        "description": "Чёрный инфильтратор"
       }
     },
     "topBundlePath": "Tops/artem_top_32.bundle",
@@ -574,8 +682,12 @@
     "handsId": "674db4268ffd805c6e44c6d7",
     "locales": {
       "en": {
-          "name": "Velocity Systems BOSS Rugby Shirt (Black)", 
-          "description":"Velocity Systems BOSS Rugby Shirt (Black)"
+        "name": "Velocity Systems BOSS Rugby Shirt (Black)",
+        "description": "Velocity Systems BOSS Rugby Shirt (Black)"
+      },
+      "ru": {
+        "name": "Рубашка Velocity Systems BOSS Rugby (Чёрная)",
+        "description": "Рубашка Velocity Systems BOSS Rugby"
       }
     },
     "topBundlePath": "Tops/artem_top_35.bundle",
@@ -595,8 +707,12 @@
     "handsId": "674db461b19b5ba0be99a2cf",
     "locales": {
       "en": {
-          "name": "WTT Tracksuit(Red)", 
-          "description":"WTT Tracksuit(Red)"
+        "name": "WTT Tracksuit(Red)",
+        "description": "WTT Tracksuit(Red)"
+      },
+      "ru": {
+        "name": "Спортивный костюм WTT (Красный)",
+        "description": "Спортивный костюм WTT"
       }
     },
     "topBundlePath": "Tops/artem_tracksuitred.bundle",
@@ -616,8 +732,12 @@
     "handsId": "674db47041996c3b2d0012fc",
     "locales": {
       "en": {
-          "name": "WTT Tracksuit(Yellow)", 
-          "description":"WTT Tracksuit(Yellow)"
+        "name": "WTT Tracksuit(Yellow)",
+        "description": "WTT Tracksuit(Yellow)"
+      },
+      "ru": {
+        "name": "Спортивный костюм WTT (Жёлтый)",
+        "description": "Спортивный костюм WTT"
       }
     },
     "topBundlePath": "Tops/artem_tracksuityellow.bundle",
@@ -637,8 +757,12 @@
     "handsId": "674db49458d33336d76a61cc",
     "locales": {
       "en": {
-          "name": "WTT Tracksuit(White)", 
-          "description":"WTT Tracksuit(White)"
+        "name": "WTT Tracksuit(White)",
+        "description": "WTT Tracksuit(White)"
+      },
+      "ru": {
+        "name": "Спортивный костюм WTT (Белый)",
+        "description": "Спортивный костюм WTT"
       }
     },
     "topBundlePath": "Tops/artem_tracksuitwhite.bundle",
@@ -658,8 +782,12 @@
     "handsId": "674db4b1d46f026475a479f2",
     "locales": {
       "en": {
-          "name": "Flannel Shirt (Cyan)", 
-          "description":"Flannel Shirt (Cyan)"
+        "name": "Flannel Shirt (Cyan)",
+        "description": "Flannel Shirt (Cyan)"
+      },
+      "ru": {
+        "name": "Фланелевая рубашка (Голубая)",
+        "description": "Фланелевая рубашка"
       }
     },
     "topBundlePath": "Tops/artem_top_40.bundle",
@@ -679,8 +807,12 @@
     "handsId": "674db4bf12b13ff6cd38e894",
     "locales": {
       "en": {
-          "name": "Flannel Shirt (White)",
-          "description":"Flannel Shirt (White)"
+        "name": "Flannel Shirt (White)",
+        "description": "Flannel Shirt (White)"
+      },
+      "ru": {
+        "name": "Фланелевая рубашка (Белая)",
+        "description": "Фланелевая рубашка"
       }
     },
     "topBundlePath": "Tops/artem_top_41.bundle",
@@ -700,9 +832,13 @@
     "handsId": "674db4d3d1dfb77cd7d8b08c",
     "locales": {
       "en": {
-          "name": "Tucked Flannel Shirt (White)",
-          "description":"Tucked Flannel Shirt (White)"
-      } 
+        "name": "Tucked Flannel Shirt (White)",
+        "description": "Tucked Flannel Shirt (White)"
+      },
+      "ru": {
+        "name": "Заправленная фланелевая рубашка (Белая)",
+        "description": "Заправленная фланелевая рубашка"
+      }
     },
     "topBundlePath": "Tops/artem_top_42.bundle",
     "handsBundlePath": "Hands/artem_hands_41.bundle",
@@ -721,8 +857,12 @@
     "handsId": "674db4ed46fbabb5dc8fcb36",
     "locales": {
       "en": {
-          "name": "Tucked Flannel Shirt (Gray)", 
-          "description":"Tucked Flannel Shirt (Gray)"
+        "name": "Tucked Flannel Shirt (Gray)",
+        "description": "Tucked Flannel Shirt (Gray)"
+      },
+      "ru": {
+        "name": "Заправленная фланелевая рубашка (Серая)",
+        "description": "Заправленная фланелевая рубашка"
       }
     },
     "topBundlePath": "Tops/artem_top_43.bundle",
@@ -742,8 +882,12 @@
     "handsId": "674db6bb880d1e71bf9446c8",
     "locales": {
       "en": {
-          "name": "Gray Hoodie", 
-          "description":"Gray Hoodie"
+        "name": "Gray Hoodie",
+        "description": "Gray Hoodie"
+      },
+      "ru": {
+        "name": "Серая толстовка",
+        "description": "Серая толстовка"
       }
     },
     "topBundlePath": "Tops/artem_top_44.bundle",
@@ -763,8 +907,12 @@
     "handsId": "674dd948bd69491a22226887",
     "locales": {
       "en": {
-          "name": "Slipknot T-shirt", 
-          "description":"Slipknot T-shirt"
+        "name": "Slipknot T-shirt",
+        "description": "Slipknot T-shirt"
+      },
+      "ru": {
+        "name": "Футболка Slipknot",
+        "description": "Футболка Slipknot"
       }
     },
     "topBundlePath": "Tops/artem_top_45.bundle",
@@ -784,8 +932,12 @@
     "handsId": "6756ed400f61f1e8b2d620f2",
     "locales": {
       "en": {
-          "name": "Ranger Green Hoodie", 
-          "description":"Ranger Green Hoodie"
+        "name": "Ranger Green Hoodie",
+        "description": "Ranger Green Hoodie"
+      },
+      "ru": {
+        "name": "Толстовка Ranger Green",
+        "description": "Толстовка цвета Ranger Green"
       }
     },
     "topBundlePath": "Tops/artem_top_46.bundle",
@@ -805,8 +957,12 @@
     "handsId": "6756ed5c31b4ec36a10d799e",
     "locales": {
       "en": {
-          "name": "Red Hoodie", 
-          "description":"Red Hoodie"
+        "name": "Red Hoodie",
+        "description": "Red Hoodie"
+      },
+      "ru": {
+        "name": "Red Hoodie",
+        "description": "Red Hoodie"
       }
     },
     "topBundlePath": "Tops/artem_top_47.bundle",
@@ -826,8 +982,12 @@
     "handsId": "6756f1fcb54201047c400311",
     "locales": {
       "en": {
-          "name": "Checkmark Hoodie", 
-          "description":"Checkmark Hoodie"
+        "name": "Checkmark Hoodie",
+        "description": "Checkmark Hoodie"
+      },
+      "ru": {
+        "name": "Checkmark Hoodie",
+        "description": "Checkmark Hoodie"
       }
     },
     "topBundlePath": "Tops/artem_top_48.bundle",
@@ -847,8 +1007,12 @@
     "handsId": "6768576630e011cbb8fd0e5b",
     "locales": {
       "en": {
-          "name": "Bomber Jacket", 
-          "description":"Bomber Jacket"
+        "name": "Bomber Jacket",
+        "description": "Bomber Jacket"
+      },
+      "ru": {
+        "name": "Bomber Jacket",
+        "description": "Bomber Jacket"
       }
     },
     "topBundlePath": "Tops/artem_top_49.bundle",
@@ -868,8 +1032,12 @@
     "handsId": "6771c3de055183ea2c96b485",
     "locales": {
       "en": {
-         "name":"Patagonia Level 9 Combat Shirt 'Patagucci' (alpine)",
-         "description":"Patagonia Level 9 Combat Shirt 'Patagucci' (alpine)"
+        "name": "Patagonia Level 9 Combat Shirt 'Patagucci' (alpine)",
+        "description": "Patagonia Level 9 Combat Shirt 'Patagucci' (alpine)"
+      },
+      "ru": {
+        "name": "Patagonia Level 9 Combat Shirt 'Patagucci' (alpine)",
+        "description": "Patagonia Level 9 Combat Shirt 'Patagucci' (alpine)"
       }
     },
     "topBundlePath": "Tops/artem_top_50.bundle",
@@ -889,8 +1057,12 @@
     "handsId": "6771c3db45ef3d73bc59c8fe",
     "locales": {
       "en": {
-         "name":"Patagonia Level 9 Combat Shirt 'Patagucci' (Multicam Black)",
-         "description":"Patagonia Level 9 Combat Shirt 'Patagucci' (Multicam Black)"
+        "name": "Patagonia Level 9 Combat Shirt 'Patagucci' (Multicam Black)",
+        "description": "Patagonia Level 9 Combat Shirt 'Patagucci' (Multicam Black)"
+      },
+      "ru": {
+        "name": "Patagonia Level 9 Combat Shirt 'Patagucci' (Multicam Black)",
+        "description": "Patagonia Level 9 Combat Shirt 'Patagucci' (Multicam Black)"
       }
     },
     "topBundlePath": "Tops/artem_top_51.bundle",
@@ -910,8 +1082,12 @@
     "handsId": "674db11ec952f53355d19488",
     "locales": {
       "en": {
-          "name": "G4 COMBAT SHIRT (Grey)", 
-          "description":"G4 COMBAT SHIRT (Grey)"
+        "name": "G4 COMBAT SHIRT (Grey)",
+        "description": "G4 COMBAT SHIRT (Grey)"
+      },
+      "ru": {
+        "name": "G4 COMBAT SHIRT (Grey)",
+        "description": "G4 COMBAT SHIRT (Grey)"
       }
     },
     "topBundlePath": "Tops/artem_top_1.bundle",
@@ -930,8 +1106,12 @@
     "bottomId": "674db508c2b99a67b69527fa",
     "locales": {
       "en": {
-          "name": "HWS Bright Jeans",
-          "description":"HWS Bright Jeans"
+        "name": "HWS Bright Jeans",
+        "description": "HWS Bright Jeans"
+      },
+      "ru": {
+        "name": "HWS Bright Jeans",
+        "description": "HWS Bright Jeans"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_1.bundle",
@@ -949,8 +1129,12 @@
     "bottomId": "674db515887dbc07e5d1b8d0",
     "locales": {
       "en": {
-          "name": "HWS Tanned Jeans", 
-          "description":"HWS Tanned Jeans"
+        "name": "HWS Tanned Jeans",
+        "description": "HWS Tanned Jeans"
+      },
+      "ru": {
+        "name": "HWS Tanned Jeans",
+        "description": "HWS Tanned Jeans"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_2.bundle",
@@ -968,8 +1152,12 @@
     "bottomId": "674db53667baa41b45710c53",
     "locales": {
       "en": {
-          "name": "HWS Light Jeans", 
-          "description":"HWS Light Jeans"
+        "name": "HWS Light Jeans",
+        "description": "HWS Light Jeans"
+      },
+      "ru": {
+        "name": "HWS Light Jeans",
+        "description": "HWS Light Jeans"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_3.bundle",
@@ -987,8 +1175,12 @@
     "bottomId": "674db548497e7a55df68aa5a",
     "locales": {
       "en": {
-          "name": "P-40 CLASSIC GEN.2 TACTICAL PANTS",
-          "description":"P-40 CLASSIC GEN.2 TACTICAL PANTS"
+        "name": "P-40 CLASSIC GEN.2 TACTICAL PANTS",
+        "description": "P-40 CLASSIC GEN.2 TACTICAL PANTS"
+      },
+      "ru": {
+        "name": "P-40 CLASSIC GEN.2 TACTICAL PANTS",
+        "description": "P-40 CLASSIC GEN.2 TACTICAL PANTS"
       }
     },
     "bottomBundlePath": "Pants/Graves_Pants.bundle",
@@ -1006,8 +1198,12 @@
     "bottomId": "674db549d91805a615bc3c11",
     "locales": {
       "en": {
-          "name": "STRIKER XT GEN.3 COMBAT PANTS", 
-          "description":"STRIKER XT GEN.3 COMBAT PANTS"
+        "name": "STRIKER XT GEN.3 COMBAT PANTS",
+        "description": "STRIKER XT GEN.3 COMBAT PANTS"
+      },
+      "ru": {
+        "name": "STRIKER XT GEN.3 COMBAT PANTS",
+        "description": "STRIKER XT GEN.3 COMBAT PANTS"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_5.bundle",
@@ -1025,8 +1221,12 @@
     "bottomId": "674db561218f2ca629974555",
     "locales": {
       "en": {
-          "name": "CRYE PRECISION GEN.4 COMBAT PANTS (MC)", 
-          "description":"CRYE PRECISION GEN.4 COMBAT PANTS (MC)"
+        "name": "CRYE PRECISION GEN.4 COMBAT PANTS (MC)",
+        "description": "CRYE PRECISION GEN.4 COMBAT PANTS (MC)"
+      },
+      "ru": {
+        "name": "CRYE PRECISION GEN.4 COMBAT PANTS (MC)",
+        "description": "CRYE PRECISION GEN.4 COMBAT PANTS (MC)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_6.bundle",
@@ -1044,8 +1244,12 @@
     "bottomId": "674db57c8f2a383e1becd539",
     "locales": {
       "en": {
-          "name": "CRYE PRECISION GEN.4 COMBAT PANTS (Navy Blue)", 
-          "description":"CRYE PRECISION GEN.4 COMBAT PANTS (Navy Blue)"
+        "name": "CRYE PRECISION GEN.4 COMBAT PANTS (Navy Blue)",
+        "description": "CRYE PRECISION GEN.4 COMBAT PANTS (Navy Blue)"
+      },
+      "ru": {
+        "name": "CRYE PRECISION GEN.4 COMBAT PANTS (Navy Blue)",
+        "description": "CRYE PRECISION GEN.4 COMBAT PANTS (Navy Blue)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_7.bundle",
@@ -1063,8 +1267,12 @@
     "bottomId": "674db596713fafc1c16e99b3",
     "locales": {
       "en": {
-          "name": "Notch Lapel Suit Pants", 
-          "description":"Notch Lapel Suit Pants"
+        "name": "Notch Lapel Suit Pants",
+        "description": "Notch Lapel Suit Pants"
+      },
+      "ru": {
+        "name": "Notch Lapel Suit Pants",
+        "description": "Notch Lapel Suit Pants"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_8.bundle",
@@ -1082,8 +1290,12 @@
     "bottomId": "674db595544fa1f0e0124a9f",
     "locales": {
       "en": {
-          "name": "Fjällräven Barents Pro Trousers (Alpine)",
-          "description":"Fjällräven Barents Pro Trousers (Alpine)"
+        "name": "Fjällräven Barents Pro Trousers (Alpine)",
+        "description": "Fjällräven Barents Pro Trousers (Alpine)"
+      },
+      "ru": {
+        "name": "Fjällräven Barents Pro Trousers (Alpine)",
+        "description": "Fjällräven Barents Pro Trousers (Alpine)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_9.bundle",
@@ -1101,8 +1313,12 @@
     "bottomId": "674db5a32709cae25ee5c8bf",
     "locales": {
       "en": {
-          "name": "Fjällräven Barents Pro Trousers (Slocam)", 
-          "description":"Fjällräven Barents Pro Trousers (Slocam)"
+        "name": "Fjällräven Barents Pro Trousers (Slocam)",
+        "description": "Fjällräven Barents Pro Trousers (Slocam)"
+      },
+      "ru": {
+        "name": "Fjällräven Barents Pro Trousers (Slocam)",
+        "description": "Fjällräven Barents Pro Trousers (Slocam)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_10.bundle",
@@ -1120,8 +1336,12 @@
     "bottomId": "674db5ce1fa45ac3d84b6d72",
     "locales": {
       "en": {
-          "name": "ASU Field Pants - Kreuzotter (WOODLAND)",
-          "description":"ASU Field Pants - Kreuzotter (WOODLAND)"
+        "name": "ASU Field Pants - Kreuzotter (WOODLAND)",
+        "description": "ASU Field Pants - Kreuzotter (WOODLAND)"
+      },
+      "ru": {
+        "name": "ASU Field Pants - Kreuzotter (WOODLAND)",
+        "description": "ASU Field Pants - Kreuzotter (WOODLAND)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_21.bundle",
@@ -1139,8 +1359,12 @@
     "bottomId": "675185a30394c5e8e5446e45",
     "locales": {
       "en": {
-          "name": "ASU Field Pants - Kreuzotter (ALPINE)", 
-          "description":"ASU Field Pants - Kreuzotter (ALPINE)"
+        "name": "ASU Field Pants - Kreuzotter (ALPINE)",
+        "description": "ASU Field Pants - Kreuzotter (ALPINE)"
+      },
+      "ru": {
+        "name": "ASU Field Pants - Kreuzotter (ALPINE)",
+        "description": "ASU Field Pants - Kreuzotter (ALPINE)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_22_alpineghillie.bundle",
@@ -1158,8 +1382,12 @@
     "bottomId": "674db5dd07ca8a8e80984498",
     "locales": {
       "en": {
-          "name": "CRYE Precision GEN.4 Combat Pants (Digital Urban)", 
-          "description":"CRYE Precision GEN.4 Combat Pants (Digital Urban)"
+        "name": "CRYE Precision GEN.4 Combat Pants (Digital Urban)",
+        "description": "CRYE Precision GEN.4 Combat Pants (Digital Urban)"
+      },
+      "ru": {
+        "name": "CRYE Precision GEN.4 Combat Pants (Digital Urban)",
+        "description": "CRYE Precision GEN.4 Combat Pants (Digital Urban)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_23.bundle",
@@ -1177,8 +1405,12 @@
     "bottomId": "674db5f01613d06fc48d6f2b",
     "locales": {
       "en": {
-          "name": "CRYE Precision GEN.4 Combat Pants (MARPAT)", 
-          "description":"CRYE Precision GEN.4 Combat Pants (MARPAT)"
+        "name": "CRYE Precision GEN.4 Combat Pants (MARPAT)",
+        "description": "CRYE Precision GEN.4 Combat Pants (MARPAT)"
+      },
+      "ru": {
+        "name": "CRYE Precision GEN.4 Combat Pants (MARPAT)",
+        "description": "CRYE Precision GEN.4 Combat Pants (MARPAT)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_24.bundle",
@@ -1196,8 +1428,12 @@
     "bottomId": "674db5f6253d72faa8b783c7",
     "locales": {
       "en": {
-          "name": "CRYE Precision GEN.4 Combat Pants (Multicam Black)", 
-          "description":"CRYE Precision GEN.4 Combat Pants (Multicam Black)"
+        "name": "CRYE Precision GEN.4 Combat Pants (Multicam Black)",
+        "description": "CRYE Precision GEN.4 Combat Pants (Multicam Black)"
+      },
+      "ru": {
+        "name": "CRYE Precision GEN.4 Combat Pants (Multicam Black)",
+        "description": "CRYE Precision GEN.4 Combat Pants (Multicam Black)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_25.bundle",
@@ -1215,8 +1451,12 @@
     "bottomId": "674db60d6dca5fbb4d91f646",
     "locales": {
       "en": {
-          "name": "CRYE Precision GEN.4 Combat Pants (M98 Woodland)", 
-          "description":"CRYE Precision GEN.4 Combat Pants (M98 Woodland)"
+        "name": "CRYE Precision GEN.4 Combat Pants (M98 Woodland)",
+        "description": "CRYE Precision GEN.4 Combat Pants (M98 Woodland)"
+      },
+      "ru": {
+        "name": "CRYE Precision GEN.4 Combat Pants (M98 Woodland)",
+        "description": "CRYE Precision GEN.4 Combat Pants (M98 Woodland)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_26.bundle",
@@ -1234,8 +1474,12 @@
     "bottomId": "67684709ad210d37bbd53947",
     "locales": {
       "en": {
-          "name": "Woodland Infiltrator lower (Alpine)", 
-          "description":"Woodland Infiltrator lower (Alpine)"
+        "name": "Woodland Infiltrator lower (Alpine)",
+        "description": "Woodland Infiltrator lower (Alpine)"
+      },
+      "ru": {
+        "name": "Woodland Infiltrator lower (Alpine)",
+        "description": "Woodland Infiltrator lower (Alpine)"
       }
     },
     "bottomBundlePath": "Pants/artem_pants_27.bundle",
@@ -1253,8 +1497,12 @@
     "bottomId": "674db61750ec239672387d36",
     "locales": {
       "en": {
-          "name": "Adik Tracksuit (Red)", 
-          "description":"Adik Tracksuit (Red)"
+        "name": "Adik Tracksuit (Red)",
+        "description": "Adik Tracksuit (Red)"
+      },
+      "ru": {
+        "name": "Adik Tracksuit (Red)",
+        "description": "Adik Tracksuit (Red)"
       }
     },
     "bottomBundlePath": "Pants/artem_tracksuitred_pants.bundle",
@@ -1272,8 +1520,12 @@
     "bottomId": "677540216fd5863f6413a731",
     "locales": {
       "en": {
-          "name": "Adik Tracksuit (Yellow)", 
-          "description":"Adik Tracksuit (Yellow)"
+        "name": "Adik Tracksuit (Yellow)",
+        "description": "Adik Tracksuit (Yellow)"
+      },
+      "ru": {
+        "name": "Adik Tracksuit (Yellow)",
+        "description": "Adik Tracksuit (Yellow)"
       }
     },
     "bottomBundlePath": "Pants/artem_tracksuityellow_pants.bundle",
@@ -1291,8 +1543,12 @@
     "bottomId": "67754022e795a8d4c32e152c",
     "locales": {
       "en": {
-          "name": "Adik Tracksuit (White)", 
-          "description":"Adik Tracksuit (White)"
+        "name": "Adik Tracksuit (White)",
+        "description": "Adik Tracksuit (White)"
+      },
+      "ru": {
+        "name": "Adik Tracksuit (White)",
+        "description": "Adik Tracksuit (White)"
       }
     },
     "bottomBundlePath": "Pants/artem_tracksuitwhite_pants.bundle",

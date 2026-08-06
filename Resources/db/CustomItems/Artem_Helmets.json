@@ -187,6 +187,11 @@
         "name": "DLP Tactical Extreme Helmet",
         "shortName": "DLP Tactical Helmet",
         "description": "Protect your skull from knocks and bangs with the ImpaX Extreme bump helmet from DLP Tactical. Cut in the familiar MICH / ACH Advanced Combat Helmet pattern, zero transition time is needed between the ImpaX Extreme bump helmet and the heavier ballistic equivalents. Perfect for high speed/ low drag operators who do not need bullet resistant protection or as a training/ simulation aid for when the heavier ballistic helmets are not desired."
+      },
+      "ru": {
+        "name": "Шлем DLP Tactical Extreme",
+        "shortName": "DLP Tactical",
+        "description": "Защитите голову от ударов и столкновений с помощью шлема ImpaX Extreme от DLP Tactical. Выполненный в знакомом форм-факторе MICH/ACH Advanced Combat Helmet, этот шлем обеспечивает нулевое время адаптации при переходе с более тяжёлых баллистических аналогов. Идеально подходит для операторов, которым не требуется защита от пуль, или для тренировок."
       }
     },
     "addtoInventorySlots": [],
@@ -427,6 +432,11 @@
         "name": "Ops-Core FAST Carbon High Cut Helmet (Dark Blue)",
         "shortName": "Ops-Core High Cut Helmet",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ru": {
+        "name": "Шлем Ops-Core FAST Carbon High Cut (Тёмно-синий)",
+        "shortName": "FAST Carbon (ТС)",
+        "description": "Высокосрезный, лёгкий, небаллистический шлем с гибридной конструкцией из однонаправленных и тканых композитных углеродных волокон. Разработан для менее экстремальных условий, прочная карбоновая конструкция обеспечивает защиту от тупых травм."
       }
     },
     "addtoInventorySlots": [],
@@ -667,6 +677,11 @@
         "name": "Legacy Safety Special Ops Ballistic Helmet FAST",
         "shortName": "SOF Ballistic Helmet",
         "description": "Legacy Safety Special OPS ballistic helmet with FAST shipping is a high performance, multi-layer, light weight combat helmet. Tested and proven to achieve a ranking of Level IIIA by the USA National Institute of Justice (NIJ STD 0106.01 ) by defeating .357 sig full metal jacket flat nose rounds (FMJ FN) and .44 Magnum semi jacketed hollow point (SJHP) rounds at velocities traveling up to 1450 ft/s."
+      },
+      "ru": {
+        "name": "Баллистический шлем Legacy Safety Special Ops FAST",
+        "shortName": "SpecOps FAST",
+        "description": "Высокоэффективный многослойный лёгкий боевой шлем Legacy Safety Special OPS. Протестирован и сертифицирован по стандарту Level IIIA Национального института юстиции США (NIJ STD 0106.01)."
       }
     },
     "addtoInventorySlots": [],
@@ -907,6 +922,11 @@
         "name": "Ops-Core FAST Carbon High Cut Helmet",
         "shortName": "Ops-Core High Cut Helmet",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ru": {
+        "name": "Шлем Ops-Core FAST Carbon High Cut",
+        "shortName": "FAST Carbon",
+        "description": "Высокосрезный лёгкий небаллистический шлем с гибридной конструкцией из углеродных волокон."
       }
     },
     "addtoInventorySlots": [],
@@ -1147,6 +1167,11 @@
         "name": "DLP Tactical Extreme Helmet",
         "shortName": "DLP Tactical Extreme Helmet",
         "description": "Protect your skull from knocks and bangs with the ImpaX Extreme bump helmet from DLP Tactical. Cut in the familiar MICH / ACH Advanced Combat Helmet pattern, zero transition time is needed between the ImpaX Extreme bump helmet and the heavier ballistic equivalents. Perfect for high speed/ low drag operators who do not need bullet resistant protection or as a training/ simulation aid for when the heavier ballistic helmets are not desired."
+      },
+      "ru": {
+        "name": "Шлем DLP Tactical Extreme",
+        "shortName": "DLP Tactical",
+        "description": "Защитите голову от ударов и столкновений с помощью шлема ImpaX Extreme от DLP Tactical. Выполненный в знакомом форм-факторе MICH/ACH Advanced Combat Helmet, этот шлем обеспечивает нулевое время адаптации при переходе с более тяжёлых баллистических аналогов. Идеально подходит для операторов, которым не требуется защита от пуль, или для тренировок."
       }
     },
     "addtoInventorySlots": [],
@@ -1361,6 +1386,11 @@
         "name": "Ops-Core FAST Carbon High Cut Helmet (Tan)",
         "shortName": "Ops-Core High Cut Helmet",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ru": {
+        "name": "Шлем Ops-Core FAST Carbon High Cut (Песочный)",
+        "shortName": "Ops-Core High Cut",
+        "description": "Лёгкий небаллистический шлем с высоким срезом, выполненный из гибридного композитного углеродного волокна. Предназначен для менее экстремальных условий — обеспечивает защиту от тупых травм, идеален для тренировок, разведки и водных операций."
       }
     },
     "addtoInventorySlots": [],
@@ -1599,6 +1629,11 @@
         "name": "Ops-Core FAST Carbon Low Cut Helmet (Roze)",
         "shortName": "Ops-Core Low Cut Helmet",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ru": {
+        "name": "Шлем Ops-Core FAST Carbon Low Cut (Roze)",
+        "shortName": "Ops-Core Low Cut",
+        "description": "Лёгкий небаллистический шлем с низким срезом в расцветке Roze. Выполнен из гибридного композитного углеродного волокна. Предназначен для менее экстремальных условий — обеспечивает защиту от тупых травм."
       }
     },
     "addtoInventorySlots": [],
@@ -1819,6 +1854,11 @@
         "name": "Tactical Bump Helmet (Grey)",
         "shortName": "Tactical Bump Helmet (Grey)",
         "description": "The super lightweight Tactical Bump Helmet from Chase Tactical is a great platform for any helmet accessory you need on the job, from Night Vision accessories to flashlights, our Tactical Bump Helmet provides great versatility and protection even in the toughest conditions."
+      },
+      "ru": {
+        "name": "Тактический шлем Tactical Bump (Серый)",
+        "shortName": "Tactical Bump",
+        "description": "Сверхлёгкий тактический шлем от Chase Tactical. Отличная платформа для любых аксессуаров — от ПНВ до фонарей. Обеспечивает универсальность и защиту даже в самых суровых условиях."
       }
     },
     "addtoInventorySlots": [],
@@ -2052,6 +2092,11 @@
         "name": "Tactical Bump Helmet (Black)",
         "shortName": "Tactical Bump Helmet",
         "description": "The super lightweight Tactical Bump Helmet from Chase Tactical is a great platform for any helmet accessory you need on the job, from Night Vision accessories to flashlights, our Tactical Bump Helmet provides great versatility and protection even in the toughest conditions."
+      },
+      "ru": {
+        "name": "Тактический шлем Tactical Bump (Чёрный)",
+        "shortName": "Tactical Bump",
+        "description": "Сверхлёгкий тактический шлем от Chase Tactical. Отличная платформа для любых аксессуаров — от ПНВ до фонарей. Обеспечивает универсальность и защиту даже в самых суровых условиях."
       }
     },
     "addtoInventorySlots": [],
@@ -2273,6 +2318,11 @@
         "name": "Tactical Bump Helmet (Alpine)",
         "shortName": "Tactical Bump Helmet",
         "description": "The super lightweight Tactical Bump Helmet from Chase Tactical is a great platform for any helmet accessory you need on the job, from Night Vision accessories to flashlights, our Tactical Bump Helmet provides great versatility and protection even in the toughest conditions."
+      },
+      "ru": {
+        "name": "Тактический шлем Tactical Bump (Alpine)",
+        "shortName": "Tactical Bump",
+        "description": "Сверхлёгкий тактический шлем от Chase Tactical в альпийском камуфляже. Отличная платформа для любых аксессуаров — от ПНВ до фонарей. Обеспечивает универсальность и защиту даже в самых суровых условиях."
       }
     },
     "addtoInventorySlots": [],
@@ -2513,6 +2563,11 @@
         "name": "ACH High Cut Tactical Helmet (Alpine)",
         "shortName": "MBH-ACH-HC",
         "description": "This ACH High-Cut helmet is manufactured in Europe with a high-performance Dupont Kevlar fiber assembly, making it a popular choice among police units and militaries around the world."
+      },
+      "ru": {
+        "name": "Тактический шлем ACH High Cut (Alpine)",
+        "shortName": "MBH-ACH-HC",
+        "description": "Шлем ACH High-Cut европейского производства с высокоэффективным кевларовым волокном Dupont. Популярен среди полицейских подразделений и военных по всему миру."
       }
     },
     "addtoInventorySlots": [],
@@ -2753,6 +2808,11 @@
         "name": "ACH High Cut Tactical Helmet (Black)",
         "shortName": "MBH-ACH-HC",
         "description": "This ACH High-Cut helmet is manufactured in Europe with a high-performance Dupont Kevlar fiber assembly, making it a popular choice among police units and militaries around the world."
+      },
+      "ru": {
+        "name": "Тактический шлем ACH High Cut (Чёрный)",
+        "shortName": "MBH-ACH-HC",
+        "description": "Шлем ACH High-Cut европейского производства с высокоэффективным кевларовым волокном Dupont. Популярен среди полицейских подразделений и военных по всему миру."
       }
     },
     "addtoInventorySlots": [],
@@ -3169,6 +3229,11 @@
         "name": "Ops-Core SF High Cut Helmet (Multicam)",
         "shortName": "Ops-Core-SF",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ru": {
+        "name": "Шлем Ops-Core SF High Cut (Multicam)",
+        "shortName": "Ops-Core-SF",
+        "description": "Лёгкий небаллистический шлем с высоким срезом в камуфляже Multicam. Выполнен из гибридного композитного углеродного волокна. Обеспечивает защиту от тупых травм."
       }
     },
     "addtoInventorySlots": [],
@@ -3585,6 +3650,11 @@
         "name": "Ops-Core SF High Cut Helmet (OD)",
         "shortName": "Ops-Core-SF",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ru": {
+        "name": "Шлем Ops-Core SF High Cut (OD)",
+        "shortName": "Ops-Core-SF",
+        "description": "Лёгкий небаллистический шлем с высоким срезом оливкового цвета. Выполнен из гибридного композитного углеродного волокна. Обеспечивает защиту от тупых травм."
       }
     },
     "addtoInventorySlots": [],
@@ -4001,6 +4071,11 @@
         "name": "Ops-Core SF High Cut Helmet (Black)",
         "shortName": "Ops-Core-SF",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ru": {
+        "name": "Шлем Ops-Core SF High Cut (Чёрный)",
+        "shortName": "Ops-Core-SF",
+        "description": "Лёгкий небаллистический шлем с высоким срезом чёрного цвета. Выполнен из гибридного композитного углеродного волокна. Обеспечивает защиту от тупых травм."
       }
     },
     "addtoInventorySlots": [],
@@ -4360,6 +4435,11 @@
         "name": "Ops-Core SF Warrior Helmet (Black)",
         "shortName": "Ops-Core-SF",
         "description": "High cut, lightweight, non-ballistic shell features a hybrid design of unidirectional and woven composite carbon fibers. Designed for less extreme environments, the durable carbon construction provides protection against blunt trauma, making it ideal for rugged training, recee and water operations, and fast roping."
+      },
+      "ru": {
+        "name": "Шлем Ops-Core SF Warrior (Чёрный)",
+        "shortName": "Ops-Core-SF",
+        "description": "Лёгкий небаллистический шлем с высоким срезом, выполненный из гибридного композитного углеродного волокна. Предназначен для менее экстремальных условий — обеспечивает защиту от тупых травм, идеален для тренировок, разведки и водных операций."
       }
     },
     "addtoInventorySlots": [],
@@ -4434,6 +4514,11 @@
         "name": "MOHOC® IR Camera",
         "shortName": "MOHOC® Camera",
         "description": "Developed specifically for use with the MOHOC® and MOHOC® IR Cameras, the Multi-Mount is designed to extend the functionality of your camera beyond the helmet."
+      },
+      "ru": {
+        "name": "Камера MOHOC® IR",
+        "shortName": "MOHOC®",
+        "description": "Многофункциональное крепление, разработанное специально для камер MOHOC® и MOHOC® IR. Позволяет расширить функциональность камеры за пределами шлема."
       }
     },
     "addtoInventorySlots": [],
@@ -4475,6 +4560,11 @@
         "name": "Core Survival HEL-STAR 6 Gen III",
         "shortName": "HEL-STAR",
         "description": "Core Survival HEL-STAR 6® Gen III is a multi function helmet mounted LED light designed for airborne/MFF, tactical and other military operations. HEL-STAR 6® Gen III combines the basic features of the earlier HEL-STAR 4® & HEL-STAR 5® multi-function marker lights into a compact, integrated design with enhanced omni-directional visibility and easy battery replacement."
+      },
+      "ru": {
+        "name": "Тактический маяк Core Survival HEL-STAR 6 Gen III",
+        "shortName": "HEL-STAR 6",
+        "description": "Многофункциональный светодиодный маяк для шлема HEL-STAR 6® третьего поколения. Предназначен для воздушно-десантных, тактических и других военных операций. Объединяет функции более ранних моделей HEL-STAR 4® и HEL-STAR 5® в компактном дизайне с улучшенной всенаправленной видимостью и лёгкой заменой батареи."
       }
     },
     "addtoInventorySlots": [],
@@ -4518,6 +4608,11 @@
         "name": "V-Lites (Red)",
         "shortName": "V-Lites",
         "description": ""
+      },
+      "ru": {
+        "name": "V-Lites (Красный)",
+        "shortName": "V-Lites (К)",
+        "description": "Тактический световой маркер красного цвета."
       }
     },
     "addtoInventorySlots": [],
@@ -4561,6 +4656,11 @@
         "name": "V-Lites (Blue)",
         "shortName": "V-Lites",
         "description": ""
+      },
+      "ru": {
+        "name": "V-Lites (Синий)",
+        "shortName": "V-Lites (С)",
+        "description": "Тактический световой маркер синего цвета."
       }
     },
     "addtoInventorySlots": [],
@@ -4604,6 +4704,11 @@
         "name": "Augmento™ Helmet Ghillie Cover Gen II (Multicam)",
         "shortName": "Augmento™ Helmet Ghillie Cover Gen II",
         "description": "Finally, a practical helmet ghillie cover. Quickly attach via shock cord to add an extra element of concealment to your kit. Creates color, texture and shadow to instantly break up the shape and appearance of your head. Rapidly remove at any time within seconds thanks to design simplicity."
+      },
+      "ru": {
+        "name": "Маскировочный чехол Augmento™ Gen II (Multicam)",
+        "shortName": "Augmento (MC)",
+        "description": "Практичный маскировочный чехол для шлема Augmento™ второго поколения в камуфляже Multicam. Быстро крепится на шнуре-резинке, создаёт текстуру и тень для маскировки контуров головы."
       }
     },
     "addtoInventorySlots": [],
@@ -4647,6 +4752,11 @@
         "name": "Augmento™ Helmet Ghillie Cover Gen II (Alpine)",
         "shortName": "Augmento™ Helmet Ghillie Cover Gen II",
         "description": "Finally, a practical helmet ghillie cover. Quickly attach via shock cord to add an extra element of concealment to your kit. Creates color, texture and shadow to instantly break up the shape and appearance of your head. Rapidly remove at any time within seconds thanks to design simplicity."
+      },
+      "ru": {
+        "name": "Маскировочный чехол Augmento™ Gen II (Alpine)",
+        "shortName": "Augmento (ALP)",
+        "description": "Практичный маскировочный чехол для шлема Augmento™ второго поколения в альпийском камуфляже. Быстро крепится на шнуре-резинке, создаёт текстуру и тень для маскировки контуров головы."
       }
     },
     "addtoInventorySlots": [],
@@ -4690,6 +4800,11 @@
         "name": "Augmento™ Helmet Ghillie Cover Gen II (Multicam Black)",
         "shortName": "Augmento™ Helmet Ghillie Cover Gen II",
         "description": "Finally, a practical helmet ghillie cover. Quickly attach via shock cord to add an extra element of concealment to your kit. Creates color, texture and shadow to instantly break up the shape and appearance of your head. Rapidly remove at any time within seconds thanks to design simplicity."
+      },
+      "ru": {
+        "name": "Маскировочный чехол Augmento™ Gen II (Multicam Black)",
+        "shortName": "Augmento (MCB)",
+        "description": "Практичный маскировочный чехол для шлема Augmento™ второго поколения в камуфляже Multicam Black. Быстро крепится на шнуре-резинке, создаёт текстуру и тень для маскировки контуров головы."
       }
     },
     "addtoInventorySlots": [],
@@ -4733,6 +4848,11 @@
         "name": "Augmento™ Helmet Ghillie Cover Gen II (Ranger Green)",
         "shortName": "Augmento™ Helmet Ghillie Cover Gen II",
         "description": "Finally, a practical helmet ghillie cover. Quickly attach via shock cord to add an extra element of concealment to your kit. Creates color, texture and shadow to instantly break up the shape and appearance of your head. Rapidly remove at any time within seconds thanks to design simplicity."
+      },
+      "ru": {
+        "name": "Маскировочный чехол Augmento™ Gen II (Ranger Green)",
+        "shortName": "Augmento (RG)",
+        "description": "Практичный маскировочный чехол для шлема Augmento™ второго поколения цвета Ranger Green. Быстро крепится на шнуре-резинке, создаёт текстуру и тень для маскировки контуров головы."
       }
     },
     "addtoInventorySlots": [],
@@ -4776,6 +4896,11 @@
         "name": "V-Lites (Green)",
         "shortName": "V-Lites",
         "description": ""
+      },
+      "ru": {
+        "name": "V-Lites (Зелёный)",
+        "shortName": "V-Lites (З)",
+        "description": "Тактический световой маркер зелёного цвета."
       }
     },
     "addtoInventorySlots": [],
@@ -4819,6 +4944,11 @@
         "name": "V-Lites (IR)",
         "shortName": "V-Lites",
         "description": ""
+      },
+      "ru": {
+        "name": "V-Lites (ИК)",
+        "shortName": "V-Lites (ИК)",
+        "description": "Тактический инфракрасный световой маркер."
       }
     },
     "addtoInventorySlots": [],
@@ -4971,6 +5101,11 @@
         "name": "GPNVG-18 Night Vision goggles (White)",
         "shortName": "GPNVG18 (White)",
         "description": ""
+      },
+      "ru": {
+        "name": "Очки ночного видения GPNVG-18 (Белые)",
+        "shortName": "GPNVG-18 (Б)",
+        "description": "Панорамные очки ночного видения GPNVG-18 белого цвета."
       }
     },
     "addtoInventorySlots": [],
@@ -5125,6 +5260,11 @@
         "name": "GPNVG-18 Night Vision goggles (OD)",
         "shortName": "GPNVG18 (OD)",
         "description": ""
+      },
+      "ru": {
+        "name": "Очки ночного видения GPNVG-18 (OD)",
+        "shortName": "GPNVG-18 (OD)",
+        "description": "Панорамные очки ночного видения GPNVG-18 оливкового цвета."
       }
     },
     "addtoInventorySlots": [],
@@ -5279,6 +5419,11 @@
         "name": "GPNVG-18 Night Vision goggles (Black)",
         "shortName": "GPNVG18 (Black)",
         "description": ""
+      },
+      "ru": {
+        "name": "Очки ночного видения GPNVG-18 (Чёрные)",
+        "shortName": "GPNVG-18 (Ч)",
+        "description": "Панорамные очки ночного видения GPNVG-18 чёрного цвета."
       }
     },
     "addtoInventorySlots": [],
@@ -5444,6 +5589,11 @@
         "name": "DevTac Ronin ballistic helmet (Alpine)",
         "shortName": "Ronin(Alpine)",
         "description": "A Japan-styled tactical helmet, manufactured by DevTac. Not used by any military or special forces. Just somehow happened to be in Tarkov for some frivolous price. Features a full protection of the whole head, but the armor class is not good enough to actually be useful in combat."
+      },
+      "ru": {
+        "name": "Баллистический шлем DevTac Ronin (Alpine)",
+        "shortName": "Ronin (ALP)",
+        "description": "Тактический шлем в японском стиле от DevTac в альпийском камуфляже. Не используется военными или спецназом, но как-то оказался в Таркове по несерьёзной цене. Обеспечивает полную защиту головы, но класс брони недостаточен для реального боя."
       }
     },
     "addtoInventorySlots": [],
@@ -5646,6 +5796,11 @@
         "name": "DevTac Ronin ballistic helmet (Black)",
         "shortName": "Ronin(Black)",
         "description": "A Japan-styled tactical helmet, manufactured by DevTac. Not used by any military or special forces. Just somehow happened to be in Tarkov for some frivolous price. Features a full protection of the whole head, but the armor class is not good enough to actually be useful in combat."
+      },
+      "ru": {
+        "name": "Баллистический шлем DevTac Ronin (Чёрный)",
+        "shortName": "Ronin (Ч)",
+        "description": "Тактический шлем в японском стиле от DevTac чёрного цвета. Не используется военными или спецназом, но как-то оказался в Таркове по несерьёзной цене. Обеспечивает полную защиту головы, но класс брони недостаточен для реального боя."
       }
     },
     "addtoInventorySlots": [],
@@ -5796,6 +5951,11 @@
         "name": "Peltor ComTac 2 headset(Mounted)",
         "shortName": "ComTac 2",
         "description": "The ComTac IV Hybrid Communication Headset is designed to help reduce exposure to hazardous levels of noise, improve situational awareness and at the same time enable two-way radio communication in noisy environments. The headset's electronics are contained completely inside the headset housing, eliminating the need for a large, heavy external radio control box. The headband mechanically stabilizes the headset to help relieve issues of earplugs dislodging from cable snags and body movement. Designed for comfortable use with a ballistic helmet."
+      },
+      "ru": {
+        "name": "Гарнитура Peltor ComTac 2 (На креплении)",
+        "shortName": "ComTac 2",
+        "description": "Активная гарнитура ComTac IV на креплении для шлема. Снижает воздействие опасного уровня шума, улучшает ситуационную осведомлённость и обеспечивает двустороннюю радиосвязь в шумной среде."
       }
     },
     "addtoInventorySlots": [],
@@ -5907,6 +6067,11 @@
         "name": "Peltor ComTac 2 headset(Mounted)",
         "shortName": "ComTac 2",
         "description": "The ComTac IV Hybrid Communication Headset is designed to help reduce exposure to hazardous levels of noise, improve situational awareness and at the same time enable two-way radio communication in noisy environments. The headset's electronics are contained completely inside the headset housing, eliminating the need for a large, heavy external radio control box. The headband mechanically stabilizes the headset to help relieve issues of earplugs dislodging from cable snags and body movement. Designed for comfortable use with a ballistic helmet."
+      },
+      "ru": {
+        "name": "Гарнитура Peltor ComTac 2 (На креплении)",
+        "shortName": "ComTac 2",
+        "description": "Активная гарнитура ComTac IV на креплении для шлема. Снижает воздействие опасного уровня шума, улучшает ситуационную осведомлённость и обеспечивает двустороннюю радиосвязь в шумной среде."
       }
     },
     "addtoInventorySlots": [],
@@ -6018,6 +6183,11 @@
         "name": "Peltor ComTac 2 headset(Mounted)",
         "shortName": "ComTac 2",
         "description": "The ComTac IV Hybrid Communication Headset is designed to help reduce exposure to hazardous levels of noise, improve situational awareness and at the same time enable two-way radio communication in noisy environments. The headset's electronics are contained completely inside the headset housing, eliminating the need for a large, heavy external radio control box. The headband mechanically stabilizes the headset to help relieve issues of earplugs dislodging from cable snags and body movement. Designed for comfortable use with a ballistic helmet."
+      },
+      "ru": {
+        "name": "Гарнитура Peltor ComTac 2 (На креплении)",
+        "shortName": "ComTac 2",
+        "description": "Активная гарнитура ComTac IV на креплении для шлема. Снижает воздействие опасного уровня шума, улучшает ситуационную осведомлённость и обеспечивает двустороннюю радиосвязь в шумной среде."
       }
     },
     "addtoInventorySlots": [],
@@ -6129,6 +6299,11 @@
         "name": "RAC headsets(1)",
         "shortName": "RAC",
         "description": ""
+      },
+      "ru": {
+        "name": "Гарнитура RAC (1)",
+        "shortName": "RAC (1)",
+        "description": "Активная гарнитура RAC на рельсовом креплении."
       }
     },
     "addtoInventorySlots": [],
@@ -6240,6 +6415,11 @@
         "name": "RAC headsets(2)",
         "shortName": "RAC",
         "description": ""
+      },
+      "ru": {
+        "name": "Гарнитура RAC (2)",
+        "shortName": "RAC (2)",
+        "description": "Активная гарнитура RAC на рельсовом креплении."
       }
     },
     "addtoInventorySlots": [],
@@ -6351,6 +6531,11 @@
         "name": "RAC headsets(3)",
         "shortName": "RAC",
         "description": ""
+      },
+      "ru": {
+        "name": "Гарнитура RAC (3)",
+        "shortName": "RAC (3)",
+        "description": "Активная гарнитура RAC на рельсовом креплении."
       }
     },
     "addtoInventorySlots": [],
@@ -6462,6 +6647,11 @@
         "name": "RAC headsets(4)",
         "shortName": "RAC",
         "description": ""
+      },
+      "ru": {
+        "name": "Гарнитура RAC (4)",
+        "shortName": "RAC (4)",
+        "description": "Активная гарнитура RAC на рельсовом креплении."
       }
     },
     "addtoInventorySlots": [],
@@ -6503,6 +6693,11 @@
         "name": "PVS-31",
         "shortName": "PVS-31",
         "description": ""
+      },
+      "ru": {
+        "name": "PVS-31",
+        "shortName": "PVS-31",
+        "description": "Бинокулярный прибор ночного видения PVS-31."
       }
     },
     "addtoInventorySlots": [],
@@ -6546,6 +6741,11 @@
         "name": "PVS-31 (Wide)",
         "shortName": "PVS-31",
         "description": ""
+      },
+      "ru": {
+        "name": "PVS-31 (Широкий)",
+        "shortName": "PVS-31 (Ш)",
+        "description": "Бинокулярный прибор ночного видения PVS-31 с широким углом обзора."
       }
     },
     "addtoInventorySlots": [],

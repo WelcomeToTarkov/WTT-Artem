@@ -93,6 +93,11 @@
         "name": "Gas Mask",
         "shortName": "Gasmask",
         "description": "Used for Biological warfare, but also when you fart under the blanket."
+      },
+      "ru": {
+        "name": "Противогаз",
+        "shortName": "Противогаз",
+        "description": "Используется при биологической войне, а также когда пукаешь под одеялом."
       }
     },
     "addtoInventorySlots": [],
@@ -212,6 +217,11 @@
         "name": "S10 - Gas Mask",
         "shortName": "S-10 Gasmask",
         "description": "Used for Biological warfare, but also when you fart under the blanket."
+      },
+      "ru": {
+        "name": "Противогаз S-10",
+        "shortName": "S-10",
+        "description": "Британский противогаз S10. Используется при биологической войне, а также когда пукаешь под одеялом."
       }
     },
     "addtoInventorySlots": [],
@@ -331,6 +341,11 @@
         "name": "S10 - Gas Mask",
         "shortName": "S-10 Gasmask",
         "description": "Used for Biological warfare, but also when you fart under the blanket."
+      },
+      "ru": {
+        "name": "Противогаз S-10",
+        "shortName": "S-10",
+        "description": "Британский противогаз S10. Используется при биологической войне, а также когда пукаешь под одеялом."
       }
     },
     "addtoInventorySlots": [],
@@ -450,6 +465,11 @@
         "name": "C50 Gas Mask",
         "shortName": "C50 Gasmask",
         "description": "Used for Biological warfare, but also when you fart under the blanket."
+      },
+      "ru": {
+        "name": "Противогаз C50",
+        "shortName": "C50",
+        "description": "Противогаз C50. Используется при биологической войне, а также когда пукаешь под одеялом."
       }
     },
     "addtoInventorySlots": [],
@@ -571,6 +591,11 @@
         "name": "Skull Mask",
         "shortName": "Skull Mask",
         "description": "TF-141"
+      },
+      "ru": {
+        "name": "Маска черепа",
+        "shortName": "Череп",
+        "description": "Тактическая маска с изображением черепа. Используется оперативниками подразделения TF-141."
       }
     },
     "addtoInventorySlots": [],
@@ -690,6 +715,11 @@
         "name": "Skull Mask(Black)",
         "shortName": "Skull Mask(B)",
         "description": "TF-141"
+      },
+      "ru": {
+        "name": "Маска черепа (Чёрная)",
+        "shortName": "Череп (Ч)",
+        "description": "Чёрная тактическая маска с изображением черепа. Используется оперативниками подразделения TF-141."
       }
     },
     "addtoInventorySlots": [],
@@ -809,6 +839,11 @@
         "name": "Skull Mask(Red)",
         "shortName": "Skull Mask(R)",
         "description": "TF-141"
+      },
+      "ru": {
+        "name": "Маска черепа (Красная)",
+        "shortName": "Череп (К)",
+        "description": "Красная тактическая маска с изображением черепа. Используется оперативниками подразделения TF-141."
       }
     },
     "addtoInventorySlots": [],
@@ -928,6 +963,11 @@
         "name": "Nikto Mask",
         "shortName": "Nikto Mask",
         "description": "Black Shadow Company"
+      },
+      "ru": {
+        "name": "Маска Никто",
+        "shortName": "Никто",
+        "description": "Тактическая маска оператора Никто из подразделения Shadow Company."
       }
     },
     "addtoInventorySlots": [],
@@ -1054,6 +1094,11 @@
         "name": "CA HAFM-KII Ballistic Face Mask",
         "shortName": "HAFM-KII Ballistic Mask",
         "description": "The NIJ Level IIIA+ Face Mask has been designed to maximize comfort while proviing front facial protection."
+      },
+      "ru": {
+        "name": "Баллистическая маска CA HAFM-KII",
+        "shortName": "HAFM-KII",
+        "description": "Баллистическая маска уровня NIJ IIIA+. Разработана для максимального комфорта при обеспечении защиты лица."
       }
     },
     "addtoInventorySlots": [],
@@ -1180,6 +1225,11 @@
         "name": "CQCM Full Face Bulletproof Mask (Worn)",
         "shortName": "CQCM Ballistic Mask",
         "description": "The NIJ Level IIIA+ Ballsitic Face Mask has been designed to maximize comfort while proviing front facial protection."
+      },
+      "ru": {
+        "name": "Полнолицевая пуленепробиваемая маска CQCM (Потёртая)",
+        "shortName": "CQCM",
+        "description": "Потёртая полнолицевая пуленепробиваемая маска уровня NIJ IIIA+. Разработана для максимального комфорта при обеспечении защиты лица."
       }
     },
     "addtoInventorySlots": [],
@@ -1334,6 +1384,11 @@
         "name": "Black Hat",
         "shortName": "Black Hat",
         "description": "A lost hat, could be worn by one of Artem's old crewmates.."
+      },
+      "ru": {
+        "name": "Чёрная кепка",
+        "shortName": "Кепка",
+        "description": "Потерянная кепка, возможно принадлежавшая одному из старых товарищей Артёма."
       }
     },
     "addtoInventorySlots": [],
@@ -1374,6 +1429,11 @@
         "name": "Cold Fear Balaclava(Cultistgay)",
         "shortName": "CF (Cultists)",
         "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+      },
+      "ru": {
+        "name": "Балаклава Холодного Страха (Культисты)",
+        "shortName": "ХС (К)",
+        "description": "Качественная балаклава из специального технологичного материала, обеспечивающего максимальное тепло в сильнейшие морозы. Но нам она нужна не для тепла — нам она нужна, чтобы выглядеть тактически."
       }
     },
     "addtoInventorySlots": [],
@@ -1495,6 +1555,11 @@
         "name": "Half-Mask (ODY)",
         "shortName": "Mask(ody)",
         "description": "A half-mask"
+      },
+      "ru": {
+        "name": "Полумаска (ODY)",
+        "shortName": "Полумаска",
+        "description": "Тактическая полумаска."
       }
     },
     "addtoInventorySlots": [],
@@ -1616,6 +1681,11 @@
         "name": "Half-Mask",
         "shortName": "Mask",
         "description": "A half-mask"
+      },
+      "ru": {
+        "name": "Полумаска",
+        "shortName": "Полумаска",
+        "description": "Тактическая полумаска."
       }
     },
     "addtoInventorySlots": [],
@@ -1737,6 +1807,11 @@
         "name": "Tanned Half-Mask",
         "shortName": "Mask",
         "description": "A half-mask"
+      },
+      "ru": {
+        "name": "Полумаска (Песочная)",
+        "shortName": "Полумаска (П)",
+        "description": "Тактическая полумаска песочного цвета."
       }
     },
     "addtoInventorySlots": [],
@@ -1887,6 +1962,11 @@
         "name": "Death Shadow lightweight armored mask (Cultist)",
         "shortName": "Death Shadow",
         "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+      },
+      "ru": {
+        "name": "Лёгкая бронированная маска Death Shadow (Культист)",
+        "shortName": "Death Shadow",
+        "description": "Лёгкая бронированная маска культистов. Изготовлена из специального технологичного материала, обеспечивающего защиту и устрашающий внешний вид."
       }
     },
     "addtoInventorySlots": [],
@@ -2008,6 +2088,11 @@
         "name": "Zryachiy's balaclava (White)",
         "shortName": "Zryachiy (White)",
         "description": "An intimidating face mask with a skull print, worn by Zryachiy."
+      },
+      "ru": {
+        "name": "Балаклава Зрячего (Белая)",
+        "shortName": "Зрячий (Б)",
+        "description": "Устрашающая белая балаклава с принтом черепа. Носится Зрячим."
       }
     },
     "addtoInventorySlots": [],
@@ -2048,6 +2133,11 @@
         "name": "Zryachiy's balaclava (Green)",
         "shortName": "Zryachiy (Green)",
         "description": "An intimidating face mask with a skull print, worn by Zryachiy."
+      },
+      "ru": {
+        "name": "Балаклава Зрячего (Зелёная)",
+        "shortName": "Зрячий (З)",
+        "description": "Устрашающая зелёная балаклава с принтом черепа. Носится Зрячим."
       }
     },
     "addtoInventorySlots": [],
@@ -2090,6 +2180,11 @@
         "name": "Wolf Cowl",
         "shortName": "Wolf Cowl",
         "description": ""
+      },
+      "ru": {
+        "name": "Волчий капюшон",
+        "shortName": "Волк",
+        "description": "Тактический капюшон с изображением волка. Обеспечивает защиту головы от непогоды и устрашающий внешний вид."
       }
     },
     "addtoInventorySlots": [],
@@ -2132,6 +2227,11 @@
         "name": "Wolf Cowl (Brown)",
         "shortName": "Wolf Cowl",
         "description": ""
+      },
+      "ru": {
+        "name": "Волчий капюшон (Коричневый)",
+        "shortName": "Волк (К)",
+        "description": "Коричневый тактический капюшон с изображением волка. Обеспечивает защиту головы от непогоды и устрашающий внешний вид."
       }
     },
     "addtoInventorySlots": [],
@@ -2253,6 +2353,11 @@
         "name": "Frogman Scrim Net (Black)",
         "shortName": "Frogman Net",
         "description": "Frogman camo veil is premium quality army scrim net scarf, a really useful large size, unlike other scrim scarves that are barely long enough to fit round your neck.Scarf measures 120cm x 150 cm with a stitched hem on two sides, manufactured from 100% cotton. Excellent as a sniper veil, helmet netting, head wrap or simply as a scarf. Ideal for all outdoor activities. Scrim scarves are designed to retain heat in cold conditions and helps keep you cool in hot conditions."
+      },
+      "ru": {
+        "name": "Маскировочная сеть Frogman (Чёрная)",
+        "shortName": "Frogman (Ч)",
+        "description": "Камуфляжная сеть-шарф премиального качества. Размер 120x150 см, изготовлена из 100% хлопка. Отлично подходит в качестве снайперской вуали, сетки для шлема или шарфа."
       }
     },
     "addtoInventorySlots": [],
@@ -2374,6 +2479,11 @@
         "name": "Frogman Scrim Net (Tan)",
         "shortName": "Frogman Net",
         "description": "Frogman camo veil is premium quality army scrim net scarf, a really useful large size, unlike other scrim scarves that are barely long enough to fit round your neck.Scarf measures 120cm x 150 cm with a stitched hem on two sides, manufactured from 100% cotton. Excellent as a sniper veil, helmet netting, head wrap or simply as a scarf. Ideal for all outdoor activities. Scrim scarves are designed to retain heat in cold conditions and helps keep you cool in hot conditions."
+      },
+      "ru": {
+        "name": "Маскировочная сеть Frogman (Песочная)",
+        "shortName": "Frogman (П)",
+        "description": "Камуфляжная сеть-шарф песочного цвета премиального качества. Размер 120x150 см, изготовлена из 100% хлопка. Отлично подходит в качестве снайперской вуали, сетки для шлема или шарфа."
       }
     },
     "addtoInventorySlots": [],
@@ -2495,6 +2605,11 @@
         "name": "Frogman Scrim Net (OD)",
         "shortName": "Frogman Net",
         "description": "Frogman camo veil is premium quality army scrim net scarf, a really useful large size, unlike other scrim scarves that are barely long enough to fit round your neck.Scarf measures 120cm x 150 cm with a stitched hem on two sides, manufactured from 100% cotton. Excellent as a sniper veil, helmet netting, head wrap or simply as a scarf. Ideal for all outdoor activities. Scrim scarves are designed to retain heat in cold conditions and helps keep you cool in hot conditions."
+      },
+      "ru": {
+        "name": "Маскировочная сеть Frogman (OD)",
+        "shortName": "Frogman (OD)",
+        "description": "Камуфляжная сеть-шарф оливкового цвета премиального качества. Размер 120x150 см, изготовлена из 100% хлопка. Отлично подходит в качестве снайперской вуали, сетки для шлема или шарфа."
       }
     },
     "addtoInventorySlots": [],
@@ -2616,6 +2731,11 @@
         "name": "Frogman Scrim Net (White)",
         "shortName": "Frogman Net",
         "description": "Frogman camo veil is premium quality army scrim net scarf, a really useful large size, unlike other scrim scarves that are barely long enough to fit round your neck.Scarf measures 120cm x 150 cm with a stitched hem on two sides, manufactured from 100% cotton. Excellent as a sniper veil, helmet netting, head wrap or simply as a scarf. Ideal for all outdoor activities. Scrim scarves are designed to retain heat in cold conditions and helps keep you cool in hot conditions."
+      },
+      "ru": {
+        "name": "Маскировочная сеть Frogman (Белая)",
+        "shortName": "Frogman (Б)",
+        "description": "Камуфляжная сеть-шарф белого цвета премиального качества. Размер 120x150 см, изготовлена из 100% хлопка. Отлично подходит в качестве снайперской вуали, сетки для шлема или шарфа."
       }
     },
     "addtoInventorySlots": [],
