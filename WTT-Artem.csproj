@@ -15,7 +15,7 @@
 
   <PropertyGroup>
     <TarkovDir Condition=" '$(TarkovDir)' == '' ">$(SolutionDir)..\..\</TarkovDir>
-    <ServerModDir>$(TarkovDir)SPT\user\mods\</ServerModDir>
+    <ServerModDir>$(TarkovDir)SPT_Runtime\user\mods\</ServerModDir>
   </PropertyGroup>
 
   <!-- This runs post build to copy the contents of the resource folder to a build directory -->
